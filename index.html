@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+  <title>Guards of Atlantis Soundboard</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --surface: #1e293b;
+      --surface2: #334155;
+      --text: #f1f5f9;
+      --text-muted: #94a3b8;
+      --accent: #38bdf8;
+      --accent-hover: #0ea5e9;
+      --danger: #f87171;
+      --border: #475569;
+      --radius: 12px;
+      --shadow: 0 4px 20px rgba(0,0,0,0.4);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      line-height: 1.5;
+    }
+
+    header {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow);
+    }
+
+    header h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--accent);
+      white-space: nowrap;
+      cursor: pointer;
+    }
+    header h1:hover { opacity: 0.85; }
+
+    .header-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+      margin-left: auto;
+      align-items: center;
+    }
+
+    button {
+      background: var(--surface2);
+      color: var(--text);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 8px 14px;
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      transition: all 0.15s ease;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    button:hover {
+      background: var(--accent);
+      color: #0f172a;
+      border-color: var(--accent);
+    }
+    button.primary {
+      background: var(--accent);
+      color: #0f172a;
+      border-color: var(--accent);
+    }
+    button.primary:hover { background: var(--accent-hover); }
+
+    .main {
+      min-height: calc(100vh - 60px);
+      display: flex;
+      flex-direction: column;
+    }
+
+    /* ===== MAIN MENU ===== */
+    .menu-view {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      padding: 24px 20px;
+    }
+    .menu-view.hidden { display: none; }
+
+    .menu-header {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+    .menu-header h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .menu-header p {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+    }
+
+    .board-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+      gap: 20px;
+      max-width: 1100px;
+      margin: 0 auto;
+      width: 100%;
+    }
+
+    .board-btn {
+      aspect-ratio: 1;
+      border-radius: var(--radius);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 16px;
+      transition: transform 0.12s, box-shadow 0.15s;
+      box-shadow: 0 4px 14px rgba(0,0,0,0.35);
+      color: #fff;
+      font-weight: 700;
+      text-align: center;
+      word-break: break-word;
+      overflow: hidden;
+      user-select: none;
+      background: #3b82f6;
+    }
+    .board-btn:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 10px 24px rgba(0,0,0,0.45);
+    }
+    .board-btn:active { transform: scale(0.96); }
+
+    .board-btn .board-name {
+      font-size: 1.15rem;
+      line-height: 1.25;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+      max-height: 3.5em;
+      overflow: hidden;
+    }
+    .board-btn .board-count {
+      margin-top: 8px;
+      font-size: 0.8rem;
+      font-weight: 500;
+      opacity: 0.9;
+      background: rgba(0,0,0,0.25);
+      padding: 2px 10px;
+      border-radius: 999px;
+    }
+
+    .menu-empty {
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+      grid-column: 1 / -1;
+    }
+    .menu-empty h3 {
+      font-size: 1.3rem;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+
+    /* ===== BOARD VIEW ===== */
+    .board-view {
+      display: none;
+      flex-direction: column;
+      flex: 1;
+    }
+    .board-view.active { display: flex; }
+
+    .board-toolbar {
+      padding: 12px 20px;
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+    .board-toolbar h2 {
+      font-size: 1.15rem;
+      font-weight: 600;
+      flex: 1;
+    }
+
+    .sound-grid {
+      flex: 1;
+      overflow-y: auto;
+      padding: 20px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      gap: 16px;
+      align-content: start;
+    }
+
+    .sound-btn {
+      aspect-ratio: 1;
+      border-radius: var(--radius);
+      border: none;
+      cursor: pointer;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 12px;
+      transition: transform 0.1s, box-shadow 0.15s;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      color: #fff;
+      font-weight: 600;
+      text-align: center;
+      word-break: break-word;
+      overflow: hidden;
+      user-select: none;
+    }
+    .sound-btn:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+    }
+    .sound-btn:active,
+    .sound-btn.playing {
+      transform: scale(0.96);
+      box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    }
+    .sound-btn .label {
+      font-size: 0.95rem;
+      line-height: 1.25;
+      max-height: 3.6em;
+      overflow: hidden;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.5);
+    }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 60px 20px;
+      color: var(--text-muted);
+    }
+    .empty-state h3 {
+      font-size: 1.2rem;
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+
+    /* Loading / Error */
+    .status-msg {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--text-muted);
+    }
+    .status-msg h3 {
+      font-size: 1.3rem;
+      color: var(--text);
+      margin-bottom: 8px;
+    }
+    .status-msg.error h3 { color: var(--danger); }
+
+    .toast {
+      position: fixed;
+      bottom: 24px;
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--surface2);
+      color: var(--text);
+      padding: 12px 24px;
+      border-radius: 8px;
+      box-shadow: var(--shadow);
+      opacity: 0;
+      transition: all 0.3s ease;
+      z-index: 300;
+      border: 1px solid var(--border);
+    }
+    .toast.show {
+      transform: translateX(-50%) translateY(0);
+      opacity: 1;
+    }
+
+    @media (max-width: 600px) {
+      .board-grid {
+        grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+        gap: 14px;
+      }
+      .sound-grid {
+        grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+        gap: 12px;
+        padding: 12px;
+      }
+      header h1 { font-size: 1.05rem; }
+      .menu-header h2 { font-size: 1.25rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1 id="app-title">🛡️ Guards Soundboard</h1>
+    <div class="header-actions">
+      <button id="btn-back" style="display:none;">← All Boards</button>
+    </div>
+  </header>
+
+  <div class="main">
+    <!-- Loading state -->
+    <div class="status-msg" id="loading-msg">
+      <h3>Loading soundboards…</h3>
+      <p>Fetching boards.json</p>
+    </div>
+
+    <!-- MAIN MENU -->
+    <div class="menu-view hidden" id="menu-view">
+      <div class="menu-header">
+        <h2>Choose a Soundboard</h2>
+        <p>Click a character to open their soundboard</p>
+      </div>
+      <div class="board-grid" id="board-grid"></div>
+    </div>
+
+    <!-- SINGLE BOARD VIEW -->
+    <div class="board-view" id="board-view">
+      <div class="board-toolbar">
+        <h2 id="current-board-name">Board Name</h2>
+      </div>
+      <div class="sound-grid" id="sound-grid"></div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast"></div>
+
+  <script>
+    // ===================== State =====================
+    let boards = [];
+    let currentBoardId = null;
+    let audioCache = {};   // path -> Audio object
+
+    // ===================== Helpers =====================
+    function toast(msg, duration = 2500) {
+      const el = document.getElementById('toast');
+      el.textContent = msg;
+      el.classList.add('show');
+      setTimeout(() => el.classList.remove('show'), duration);
+    }
+
+    function escapeHtml(str) {
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;');
+    }
+
+    // ===================== Load boards.json =====================
+    async function loadBoards() {
+      try {
+        const res = await fetch('boards.json?t=' + Date.now()); // cache-bust
+        if (!res.ok) throw new Error('Could not load boards.json (HTTP ' + res.status + ')');
+        const data = await res.json();
+
+        if (!data.boards || !Array.isArray(data.boards)) {
+          throw new Error('boards.json is missing a "boards" array');
+        }
+
+        boards = data.boards;
+        document.getElementById('loading-msg').style.display = 'none';
+        showMenu();
+      } catch (err) {
+        console.error(err);
+        const msg = document.getElementById('loading-msg');
+        msg.classList.add('error');
+        msg.innerHTML = `
+          <h3>Could not load boards</h3>
+          <p>${escapeHtml(err.message)}</p>
+          <p style="margin-top:12px;font-size:0.9rem;">
+            Make sure <code>boards.json</code> is in the same folder as this page<br>
+            and that you are opening the site via a web server (GitHub Pages), not as a local file.
+          </p>`;
+      }
+    }
+
+    // ===================== Views =====================
+    function showMenu() {
+      currentBoardId = null;
+      document.getElementById('menu-view').classList.remove('hidden');
+      document.getElementById('board-view').classList.remove('active');
+      document.getElementById('btn-back').style.display = 'none';
+      renderBoardGrid();
+    }
+
+    function showBoard(id) {
+      const board = boards.find(b => b.id === id);
+      if (!board) return;
+
+      currentBoardId = id;
+      document.getElementById('menu-view').classList.add('hidden');
+      document.getElementById('board-view').classList.add('active');
+      document.getElementById('btn-back').style.display = 'inline-flex';
+      document.getElementById('current-board-name').textContent = board.name;
+      renderSounds(board);
+    }
+
+    // ===================== Render Main Menu =====================
+    function renderBoardGrid() {
+      const grid = document.getElementById('board-grid');
+      grid.innerHTML = '';
+
+      if (boards.length === 0) {
+        grid.innerHTML = `
+          <div class="menu-empty">
+            <h3>No soundboards found</h3>
+            <p>Add boards to <code>boards.json</code></p>
+          </div>`;
+        return;
+      }
+
+      boards.forEach(board => {
+        const btn = document.createElement('button');
+        btn.className = 'board-btn';
+        btn.style.background = board.color || '#3b82f6';
+        const count = (board.sounds && board.sounds.length) || 0;
+        btn.innerHTML = `
+          <span class="board-name">${escapeHtml(board.name)}</span>
+          <span class="board-count">${count} sound${count !== 1 ? 's' : ''}</span>
+        `;
+        btn.addEventListener('click', () => showBoard(board.id));
+        grid.appendChild(btn);
+      });
+    }
+
+    // ===================== Render Sounds =====================
+    function renderSounds(board) {
+      const grid = document.getElementById('sound-grid');
+      grid.innerHTML = '';
+
+      const sounds = board.sounds || [];
+      if (sounds.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state">
+            <h3>No sounds yet</h3>
+            <p>Add entries to this board in <code>boards.json</code><br>
+            and place the audio files in the <code>audio/</code> folder.</p>
+          </div>`;
+        return;
+      }
+
+      sounds.forEach(sound => {
+        const btn = document.createElement('button');
+        btn.className = 'sound-btn';
+        btn.style.background = sound.color || '#3b82f6';
+        btn.innerHTML = `<span class="label">${escapeHtml(sound.name)}</span>`;
+
+        btn.addEventListener('click', () => playSound(sound.file, btn));
+        grid.appendChild(btn);
+      });
+    }
+
+    // ===================== Playback =====================
+    function playSound(filePath, btnEl) {
+      if (!filePath) {
+        toast('No audio file specified');
+        return;
+      }
+
+      // Re-use cached Audio object so rapid clicks restart cleanly
+      let audio = audioCache[filePath];
+      if (!audio) {
+        audio = new Audio(filePath);
+        audioCache[filePath] = audio;
+      }
+
+      audio.pause();
+      audio.currentTime = 0;
+      audio.play().catch(err => {
+        console.error(err);
+        toast('Could not play: ' + filePath.split('/').pop());
+      });
+
+      if (btnEl) {
+        btnEl.classList.add('playing');
+        setTimeout(() => btnEl.classList.remove('playing'), 200);
+      }
+    }
+
+    // ===================== Events =====================
+    document.getElementById('app-title').addEventListener('click', showMenu);
+    document.getElementById('btn-back').addEventListener('click', showMenu);
+
+    // ===================== Start =====================
+    loadBoards();
+  </script>
+</body>
+</html>
