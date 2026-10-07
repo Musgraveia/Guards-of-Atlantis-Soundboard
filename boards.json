@@ -2862,82 +2862,82 @@
         {
           "name": "Begin Battle",
           "color": "#d2b48c",
-          "file": "audio/wasp/Wasp Begin Battle.wav"
+          "file": "audio/wasp/Wasp Begin Battle.ogg"
         },
         {
           "name": "Block",
           "color": "#14b8a6",
-          "file": "audio/wasp/Wasp Block.wav"
+          "file": "audio/wasp/Wasp Block.ogg"
         },
         {
           "name": "Blue",
           "color": "#1e40af",
-          "file": "audio/wasp/Wasp Blue.wav"
+          "file": "audio/wasp/Wasp Blue.ogg"
         },
         {
           "name": "Dying",
           "color": "#450a0a",
-          "file": "audio/wasp/Wasp Dying.wav"
+          "file": "audio/wasp/Wasp Dying.ogg"
         },
         {
           "name": "Gold",
           "color": "#a16207",
-          "file": "audio/wasp/Wasp Gold.wav"
+          "file": "audio/wasp/Wasp Gold.ogg"
         },
         {
           "name": "Green 1",
           "color": "#166534",
-          "file": "audio/wasp/Wasp Green 1.wav"
+          "file": "audio/wasp/Wasp Green 1.ogg"
         },
         {
           "name": "Green 2",
           "color": "#16a34a",
-          "file": "audio/wasp/Wasp Green 2.wav"
+          "file": "audio/wasp/Wasp Green 2.ogg"
         },
         {
           "name": "Hero",
           "color": "#000000",
-          "file": "audio/wasp/Wasp Hero.wav"
+          "file": "audio/wasp/Wasp Hero.ogg"
         },
         {
           "name": "Lvl Up",
           "color": "#facc15",
-          "file": "audio/wasp/Wasp Lvl Up.wav"
+          "file": "audio/wasp/Wasp Lvl Up.ogg"
         },
         {
           "name": "Minion",
           "color": "#6b7280",
-          "file": "audio/wasp/Wasp Minion.wav"
+          "file": "audio/wasp/Wasp Minion.ogg"
         },
         {
           "name": "Move 1",
           "color": "#0d9488",
-          "file": "audio/wasp/Wasp Move 1.wav"
+          "file": "audio/wasp/Wasp Move 1.ogg"
         },
         {
           "name": "Move 2",
           "color": "#0d9488",
-          "file": "audio/wasp/Wasp Move 2.wav"
+          "file": "audio/wasp/Wasp Move 2.ogg"
         },
         {
           "name": "Red",
           "color": "#991b1b",
-          "file": "audio/wasp/Wasp Red.wav"
+          "file": "audio/wasp/Wasp Red.ogg"
         },
         {
           "name": "Silver",
           "color": "#475569",
-          "file": "audio/wasp/Wasp Silver.wav"
+          "file": "audio/wasp/Wasp Silver.ogg"
         },
         {
           "name": "Taunt",
           "color": "#ffffff",
-          "file": "audio/wasp/Wasp Taunt.wav"
+          "file": "audio/wasp/Wasp Taunt.ogg"
         },
         {
           "name": "Ult",
           "color": "#4c1d95",
-          "file": "audio/wasp/Wasp Ult.wav"
+          "file": "audio/wasp/Wasp Ult.ogg"
         }
       ]
     },
