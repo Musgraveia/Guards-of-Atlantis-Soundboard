@@ -21,7 +21,7 @@
           "file": "audio/arien/Arien Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/arien/Arien Green 1.ogg"
         },
@@ -31,7 +31,7 @@
           "file": "audio/arien/Arien Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/arien/Arien Blue 1.ogg"
         },
@@ -46,7 +46,7 @@
           "file": "audio/arien/Arien Blue 3.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/arien/Arien Red 1.ogg"
         },
@@ -82,17 +82,17 @@
         },
         {
           "name": "Minion 2",
-          "color": "#6b7280",
+          "color": "#4b5563",
           "file": "audio/arien/Arien Minion 2.ogg"
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/arien/Arien Hero 1.ogg"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/arien/Arien Hero 2.ogg"
         },
         {
@@ -102,12 +102,12 @@
         },
         {
           "name": "Block 2",
-          "color": "#14b8a6",
+          "color": "#0d9488",
           "file": "audio/arien/Arien Block 2.ogg"
         },
         {
           "name": "Block 3",
-          "color": "#14b8a6",
+          "color": "#2dd4bf",
           "file": "audio/arien/Arien Block 3.ogg"
         },
         {
@@ -127,7 +127,7 @@
         },
         {
           "name": "Taunt 2",
-          "color": "#d4d4d8",
+          "color": "#c0c0c0",
           "file": "audio/arien/Arien Taunt 2.ogg"
         },
         {
@@ -137,7 +137,7 @@
         },
         {
           "name": "Dying 2",
-          "color": "#450a0a",
+          "color": "#7f1d1d",
           "file": "audio/arien/Arien Dying 2.ogg"
         },
         {
@@ -147,7 +147,7 @@
         },
         {
           "name": "Begin Battle 2",
-          "color": "#d2b48c",
+          "color": "#c4a484",
           "file": "audio/arien/Arien Begin Battle 2.ogg"
         }
       ]
@@ -168,7 +168,7 @@
           "file": "audio/bain/Bain Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/bain/Bain Green 1.ogg"
         },
@@ -178,7 +178,7 @@
           "file": "audio/bain/Bain Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/bain/Bain Blue 1.ogg"
         },
@@ -209,7 +209,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/bain/Bain Hero.ogg"
         },
         {
@@ -260,7 +260,7 @@
           "file": "audio/brogan/Brogan Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/brogan/Brogan Green 1.ogg"
         },
@@ -270,7 +270,7 @@
           "file": "audio/brogan/Brogan Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/brogan/Brogan Blue 1.ogg"
         },
@@ -280,7 +280,7 @@
           "file": "audio/brogan/Brogan Blue 2.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/brogan/Brogan Red 1.ogg"
         },
@@ -311,17 +311,17 @@
         },
         {
           "name": "Minion 2",
-          "color": "#6b7280",
+          "color": "#4b5563",
           "file": "audio/brogan/Brogan Minion 2.ogg"
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/brogan/Brogan Hero 1.ogg"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/brogan/Brogan Hero 2.ogg"
         },
         {
@@ -331,7 +331,7 @@
         },
         {
           "name": "Block 2",
-          "color": "#14b8a6",
+          "color": "#0d9488",
           "file": "audio/brogan/Brogan Block 2.ogg"
         },
         {
@@ -346,7 +346,7 @@
         },
         {
           "name": "Taunt 2",
-          "color": "#d4d4d8",
+          "color": "#c0c0c0",
           "file": "audio/brogan/Brogan Taunt 2.ogg"
         },
         {
@@ -356,7 +356,7 @@
         },
         {
           "name": "Dying 2",
-          "color": "#450a0a",
+          "color": "#7f1d1d",
           "file": "audio/brogan/Brogan Dying 2.ogg"
         },
         {
@@ -382,7 +382,7 @@
           "file": "audio/brynn/Brynn Silver.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/brynn/Brynn Green 1.wav"
         },
@@ -392,7 +392,7 @@
           "file": "audio/brynn/Brynn Green 2.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/brynn/Brynn Blue 1.wav"
         },
@@ -402,7 +402,7 @@
           "file": "audio/brynn/Brynn Blue 2.wav"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/brynn/Brynn Red 1.wav"
         },
@@ -433,7 +433,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/brynn/Brynn Hero.wav"
         },
         {
@@ -479,7 +479,7 @@
           "file": "audio/cutter/Cutter Silver.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/cutter/Cutter Green 1.wav"
         },
@@ -494,7 +494,7 @@
           "file": "audio/cutter/Cutter Green 3.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/cutter/Cutter Blue 1.wav"
         },
@@ -509,7 +509,7 @@
           "file": "audio/cutter/Cutter Blue 3.wav"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/cutter/Cutter Red 1.wav"
         },
@@ -540,7 +540,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/cutter/Cutter Hero.wav"
         },
         {
@@ -550,7 +550,7 @@
         },
         {
           "name": "Block 2",
-          "color": "#14b8a6",
+          "color": "#0d9488",
           "file": "audio/cutter/Cutter Block 2.wav"
         },
         {
@@ -601,7 +601,7 @@
           "file": "audio/dodger/Dodger Silver 2.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/dodger/Dodger Green 1.ogg"
         },
@@ -621,7 +621,7 @@
           "file": "audio/dodger/Dodger Green 4.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/dodger/Dodger Blue 1.ogg"
         },
@@ -636,7 +636,7 @@
           "file": "audio/dodger/Dodger Blue 3.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/dodger/Dodger Red 1.ogg"
         },
@@ -667,17 +667,17 @@
         },
         {
           "name": "Minion 2",
-          "color": "#6b7280",
+          "color": "#4b5563",
           "file": "audio/dodger/Dodger Minion 2.ogg"
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/dodger/Dodger Hero 1.ogg"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/dodger/Dodger Hero 2.ogg"
         },
         {
@@ -697,7 +697,7 @@
         },
         {
           "name": "Taunt 2",
-          "color": "#d4d4d8",
+          "color": "#c0c0c0",
           "file": "audio/dodger/Dodger Taunt 2.ogg"
         },
         {
@@ -707,7 +707,7 @@
         },
         {
           "name": "Dying 2",
-          "color": "#450a0a",
+          "color": "#7f1d1d",
           "file": "audio/dodger/Dodger Dying 2.ogg"
         },
         {
@@ -733,7 +733,7 @@
           "file": "audio/emmitt/EMMITT SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/emmitt/EMMITT GREEN 1.wav"
         },
@@ -743,7 +743,7 @@
           "file": "audio/emmitt/EMMITT GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/emmitt/EMMITT BLUE 1.wav"
         },
@@ -753,7 +753,7 @@
           "file": "audio/emmitt/EMMITT BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/emmitt/EMMITT RED 1.wav"
         },
@@ -789,7 +789,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/emmitt/EMMITT HERO.wav"
         },
         {
@@ -835,7 +835,7 @@
           "file": "audio/garrus/Garrus Silver.m4a"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/garrus/Garrus Green 1.ogg"
         },
@@ -845,7 +845,7 @@
           "file": "audio/garrus/Garrus Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/garrus/Garrus Blue 1.ogg"
         },
@@ -855,7 +855,7 @@
           "file": "audio/garrus/Garrus Blue 2.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/garrus/Garrus Red 1.ogg"
         },
@@ -886,7 +886,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/garrus/Garrus Hero.ogg"
         },
         {
@@ -932,7 +932,7 @@
           "file": "audio/gydion/GYDION SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/gydion/GYDION GREEN 1.wav"
         },
@@ -942,7 +942,7 @@
           "file": "audio/gydion/GYDION GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/gydion/GYDION BLUE 1.wav"
         },
@@ -952,7 +952,7 @@
           "file": "audio/gydion/GYDION BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/gydion/GYDION RED 1.wav"
         },
@@ -988,7 +988,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/gydion/GYDION HERO.wav"
         },
         {
@@ -1013,7 +1013,7 @@
         },
         {
           "name": "DYING 2",
-          "color": "#450a0a",
+          "color": "#7f1d1d",
           "file": "audio/gydion/GYDION DYING 2.wav"
         },
         {
@@ -1044,7 +1044,7 @@
           "file": "audio/hanu/Hanu Silver 2.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/hanu/Hanu Green 1.wav"
         },
@@ -1054,7 +1054,7 @@
           "file": "audio/hanu/Hanu Green 2.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/hanu/Hanu Blue 1.wav"
         },
@@ -1090,7 +1090,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/hanu/Hanu Hero.wav"
         },
         {
@@ -1136,7 +1136,7 @@
           "file": "audio/ignatia/IGNATIA SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/ignatia/IGNATIA GREEN 1.wav"
         },
@@ -1146,7 +1146,7 @@
           "file": "audio/ignatia/IGNATIA GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/ignatia/IGNATIA BLUE 1.wav"
         },
@@ -1156,7 +1156,7 @@
           "file": "audio/ignatia/IGNATIA BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/ignatia/IGNATIA RED 1.wav"
         },
@@ -1187,7 +1187,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/ignatia/IGNATIA HERO.wav"
         },
         {
@@ -1233,7 +1233,7 @@
           "file": "audio/min/Min Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/min/Min Green 1.ogg"
         },
@@ -1243,7 +1243,7 @@
           "file": "audio/min/Min Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/min/Min Blue 1.ogg"
         },
@@ -1299,12 +1299,12 @@
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/min/Min Hero 1.ogg"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/min/Min Hero 2.mp3"
         },
         {
@@ -1350,7 +1350,7 @@
           "file": "audio/misa/Misa Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/misa/Misa Green 1.ogg"
         },
@@ -1360,7 +1360,7 @@
           "file": "audio/misa/Misa Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/misa/Misa Blue 1.m4a"
         },
@@ -1396,7 +1396,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/misa/Misa Hero.ogg"
         },
         {
@@ -1442,7 +1442,7 @@
           "file": "audio/mortimer/MORIMER SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/mortimer/MORIMER GREEN 1.wav"
         },
@@ -1452,7 +1452,7 @@
           "file": "audio/mortimer/MORIMER GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/mortimer/MORIMER BLUE 1.wav"
         },
@@ -1488,7 +1488,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/mortimer/MORIMER HERO.wav"
         },
         {
@@ -1534,7 +1534,7 @@
           "file": "audio/mrak/MRAK SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#16a34a",
           "file": "audio/mrak/MRAK GREEN 1.wav"
         },
@@ -1549,7 +1549,7 @@
           "file": "audio/mrak/MRAK BLUE.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/mrak/MRAK RED 1.wav"
         },
@@ -1580,7 +1580,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/mrak/MRAK HERO.wav"
         },
         {
@@ -1626,7 +1626,7 @@
           "file": "audio/nebkher/Nebkher Silver.m4a"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/nebkher/NEBKHER GREEN 1.wav"
         },
@@ -1636,7 +1636,7 @@
           "file": "audio/nebkher/NEBKHER GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/nebkher/NEBKHER BLUE 1.wav"
         },
@@ -1646,7 +1646,7 @@
           "file": "audio/nebkher/NEBKHER BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/nebkher/NEBKHER RED 1.wav"
         },
@@ -1672,7 +1672,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/nebkher/NEBKHER HERO.wav"
         },
         {
@@ -1718,7 +1718,7 @@
           "file": "audio/razzle/RAZZLE SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/razzle/RAZZLE GREEN 1.wav"
         },
@@ -1728,7 +1728,7 @@
           "file": "audio/razzle/RAZZLE GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/razzle/RAZZLE BLUE 1.wav"
         },
@@ -1738,7 +1738,7 @@
           "file": "audio/razzle/RAZZLE BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/razzle/RAZZLE RED 1.wav"
         },
@@ -1769,7 +1769,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/razzle/RAZZLE HERO.wav"
         },
         {
@@ -1815,7 +1815,7 @@
           "file": "audio/rowenna/Rowenna Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/rowenna/Rowenna Green 1.ogg"
         },
@@ -1825,7 +1825,7 @@
           "file": "audio/rowenna/Rowenna Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/rowenna/Rowenna Blue 1.ogg"
         },
@@ -1861,7 +1861,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/rowenna/Rowenna Hero.ogg"
         },
         {
@@ -1907,7 +1907,7 @@
           "file": "audio/sabina/Sabina Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/sabina/Sabina Green 1.ogg"
         },
@@ -1917,7 +1917,7 @@
           "file": "audio/sabina/Sabina Green 2.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/sabina/Sabina Blue 1.ogg"
         },
@@ -1927,7 +1927,7 @@
           "file": "audio/sabina/Sabina Blue 2.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/sabina/Sabina Red 1.ogg"
         },
@@ -1958,7 +1958,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/sabina/Sabina Hero.ogg"
         },
         {
@@ -2004,7 +2004,7 @@
           "file": "audio/silverarrow/Silverarrow Silver.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/silverarrow/Silverarrow Green 1.wav"
         },
@@ -2014,7 +2014,7 @@
           "file": "audio/silverarrow/Silverarrow Green 2.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/silverarrow/Silverarrow Blue 1.wav"
         },
@@ -2050,7 +2050,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/silverarrow/Silverarrow Hero.wav"
         },
         {
@@ -2096,7 +2096,7 @@
           "file": "audio/snorri/SNORRI SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/snorri/SNORRI GREEN 1.wav"
         },
@@ -2106,7 +2106,7 @@
           "file": "audio/snorri/SNORRI GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/snorri/SNORRI BLUE 1.wav"
         },
@@ -2116,7 +2116,7 @@
           "file": "audio/snorri/SNORRI BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#3b82f6",
           "file": "audio/snorri/SNORRI RED 1.wav"
         },
@@ -2157,7 +2157,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/snorri/SNORRI HERO.wav"
         },
         {
@@ -2203,7 +2203,7 @@
           "file": "audio/swift/SWIFT SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/swift/SWIFT GREEN 1.wav"
         },
@@ -2218,7 +2218,7 @@
           "file": "audio/swift/SWIFT BLUE.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/swift/SWIFT RED 1.wav"
         },
@@ -2249,7 +2249,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/swift/SWIFT HERO.wav"
         },
         {
@@ -2305,7 +2305,7 @@
           "file": "audio/takahide/TAKAHIDE SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/takahide/TAKAHIDE GREEN 1.wav"
         },
@@ -2315,7 +2315,7 @@
           "file": "audio/takahide/TAKAHIDE GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/takahide/TAKAHIDE BLUE 1.wav"
         },
@@ -2325,7 +2325,7 @@
           "file": "audio/takahide/TAKAHIDE BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/takahide/TAKAHIDE RED 1.wav"
         },
@@ -2351,7 +2351,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/takahide/TAKAHIDE HERO.wav"
         },
         {
@@ -2397,7 +2397,7 @@
           "file": "audio/tali/TALI SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/tali/TALI GREEN 1.wav"
         },
@@ -2407,7 +2407,7 @@
           "file": "audio/tali/TALI GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/tali/TALI BLUE 1.wav"
         },
@@ -2417,7 +2417,7 @@
           "file": "audio/tali/TALI BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/tali/TALI RED 1.wav"
         },
@@ -2448,7 +2448,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/tali/TALI HERO.wav"
         },
         {
@@ -2504,7 +2504,7 @@
           "file": "audio/tigerclaw/Tigerclaw Silver 2.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/tigerclaw/Tigerclaw Green 1.ogg"
         },
@@ -2519,7 +2519,7 @@
           "file": "audio/tigerclaw/Tigerclaw Green 3.ogg"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/tigerclaw/Tigerclaw Blue 1.ogg"
         },
@@ -2529,7 +2529,7 @@
           "file": "audio/tigerclaw/Tigerclaw Blue 2.ogg"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/tigerclaw/Tigerclaw Red 1.ogg"
         },
@@ -2560,17 +2560,17 @@
         },
         {
           "name": "Minion 2",
-          "color": "#6b7280",
+          "color": "#4b5563",
           "file": "audio/tigerclaw/Tigerclaw Minion 2.ogg"
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/tigerclaw/Tigerclaw Hero 1.ogg"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/tigerclaw/Tigerclaw Hero 2.ogg"
         },
         {
@@ -2580,7 +2580,7 @@
         },
         {
           "name": "Block 2",
-          "color": "#14b8a6",
+          "color": "#0d9488",
           "file": "audio/tigerclaw/Tigerclaw Block 2.ogg"
         },
         {
@@ -2626,7 +2626,7 @@
           "file": "audio/trinkets/TRINKETS SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/trinkets/TRINKETS GREEN 1.wav"
         },
@@ -2636,7 +2636,7 @@
           "file": "audio/trinkets/TRINKETS GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/trinkets/TRINKETS BLUE 1.wav"
         },
@@ -2646,7 +2646,7 @@
           "file": "audio/trinkets/TRINKETS BLUE 2.wav"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/trinkets/Trinkets Red 1.m4a"
         },
@@ -2677,7 +2677,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/trinkets/TRINKETS HERO.wav"
         },
         {
@@ -2728,7 +2728,7 @@
           "file": "audio/ursafar/Ursafar Silver.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/ursafar/Ursafar Green 1.wav"
         },
@@ -2743,7 +2743,7 @@
           "file": "audio/ursafar/Ursafar Green 3.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/ursafar/Ursafar Blue 1.wav"
         },
@@ -2753,7 +2753,7 @@
           "file": "audio/ursafar/Ursafar Blue 2.wav"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/ursafar/Ursafar Red 1.wav"
         },
@@ -2789,17 +2789,17 @@
         },
         {
           "name": "Minion 2",
-          "color": "#6b7280",
+          "color": "#4b5563",
           "file": "audio/ursafar/Ursafar Minion 2.wav"
         },
         {
           "name": "Hero 1",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/ursafar/Ursafar Hero 1.wav"
         },
         {
           "name": "Hero 2",
-          "color": "#000000",
+          "color": "#374151",
           "file": "audio/ursafar/Ursafar Hero 2.wav"
         },
         {
@@ -2809,7 +2809,7 @@
         },
         {
           "name": "Block 2",
-          "color": "#14b8a6",
+          "color": "#0d9488",
           "file": "audio/ursafar/Ursafar Block 2.wav"
         },
         {
@@ -2829,7 +2829,7 @@
         },
         {
           "name": "Taunt 2",
-          "color": "#d4d4d8",
+          "color": "#c0c0c0",
           "file": "audio/ursafar/Ursafar Taunt 2.wav"
         },
         {
@@ -2839,7 +2839,7 @@
         },
         {
           "name": "Dying 2",
-          "color": "#450a0a",
+          "color": "#7f1d1d",
           "file": "audio/ursafar/Ursafar Dying 2.wav"
         },
         {
@@ -2849,7 +2849,7 @@
         },
         {
           "name": "Begin Battle 2",
-          "color": "#d2b48c",
+          "color": "#c4a484",
           "file": "audio/ursafar/Ursafar Begin Battle 2.wav"
         }
       ]
@@ -2870,7 +2870,7 @@
           "file": "audio/wasp/Wasp Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/wasp/Wasp Green 1.ogg"
         },
@@ -2911,7 +2911,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/wasp/Wasp Hero.ogg"
         },
         {
@@ -2957,7 +2957,7 @@
           "file": "audio/whisper/Whisper Silver.wav"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/whisper/Whisper Green 1.wav"
         },
@@ -2967,7 +2967,7 @@
           "file": "audio/whisper/Whisper Green 2.wav"
         },
         {
-          "name": "Blue 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/whisper/Whisper Blue 1.wav"
         },
@@ -2977,7 +2977,7 @@
           "file": "audio/whisper/Whisper Blue 2.wav"
         },
         {
-          "name": "Red 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/whisper/Whisper Red 1.wav"
         },
@@ -3008,7 +3008,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/whisper/Whisper Hero.wav"
         },
         {
@@ -3054,7 +3054,7 @@
           "file": "audio/widget/WIDGET SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/widget/WIDGET GREEN 1.wav"
         },
@@ -3064,7 +3064,7 @@
           "file": "audio/widget/WIDGET GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/widget/WIDGET BLUE 1.wav"
         },
@@ -3074,7 +3074,7 @@
           "file": "audio/widget/WIDGET BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/widget/WIDGET RED 1.wav"
         },
@@ -3105,7 +3105,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/widget/WIDGET HERO.wav"
         },
         {
@@ -3151,7 +3151,7 @@
           "file": "audio/wuk/WUK SILVER.wav"
         },
         {
-          "name": "GREEN 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/wuk/WUK GREEN 1.wav"
         },
@@ -3161,7 +3161,7 @@
           "file": "audio/wuk/WUK GREEN 2.wav"
         },
         {
-          "name": "BLUE 1",
+          "name": "Blue",
           "color": "#1e40af",
           "file": "audio/wuk/WUK BLUE 1.wav"
         },
@@ -3171,7 +3171,7 @@
           "file": "audio/wuk/WUK BLUE 2.wav"
         },
         {
-          "name": "RED 1",
+          "name": "Red",
           "color": "#991b1b",
           "file": "audio/wuk/WUK RED 1.wav"
         },
@@ -3202,7 +3202,7 @@
         },
         {
           "name": "HERO",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/wuk/WUK HERO.wav"
         },
         {
@@ -3248,7 +3248,7 @@
           "file": "audio/xargatha/Xargatha Silver.ogg"
         },
         {
-          "name": "Green 1",
+          "name": "Green",
           "color": "#166534",
           "file": "audio/xargatha/Xargatha Green 1.ogg"
         },
@@ -3289,7 +3289,7 @@
         },
         {
           "name": "Hero",
-          "color": "#000000",
+          "color": "#1f2937",
           "file": "audio/xargatha/Xargatha Hero.ogg"
         },
         {
