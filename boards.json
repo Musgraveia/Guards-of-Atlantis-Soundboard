@@ -243,13 +243,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/bain/Bain Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/bain/Bain Hero.ogg",
           "opacity": 0.88
@@ -513,13 +513,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/brynn/Brynn Minion.wav",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/brynn/Brynn Hero.wav",
           "opacity": 0.88
@@ -642,13 +642,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/cutter/Cutter Minion.wav",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/cutter/Cutter Hero.wav",
           "opacity": 0.88
@@ -942,13 +942,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/emmitt/EMMITT MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/emmitt/EMMITT HERO.wav",
           "opacity": 0.88
@@ -1059,13 +1059,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/garrus/Garrus Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/garrus/Garrus Hero.ogg",
           "opacity": 0.88
@@ -1182,13 +1182,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/gydion/GYDION MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/gydion/GYDION HERO.wav",
           "opacity": 0.88
@@ -1305,13 +1305,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/hanu/Hanu Minion.wav",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/hanu/Hanu Hero.wav",
           "opacity": 0.88
@@ -1422,13 +1422,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/ignatia/IGNATIA MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/ignatia/IGNATIA HERO.wav",
           "opacity": 0.88
@@ -1557,7 +1557,7 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/min/Min Minion.ogg",
           "opacity": 0.88
@@ -1674,13 +1674,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/misa/Misa Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/misa/Misa Hero.ogg",
           "opacity": 0.88
@@ -1785,13 +1785,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/mortimer/MORIMER MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/mortimer/MORIMER HERO.wav",
           "opacity": 0.88
@@ -1896,13 +1896,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/mrak/MRAK MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/mrak/MRAK HERO.wav",
           "opacity": 0.88
@@ -2007,13 +2007,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/nebkher/NEBKHER MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/nebkher/NEBKHER HERO.wav",
           "opacity": 0.88
@@ -2124,13 +2124,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/razzle/RAZZLE MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/razzle/RAZZLE HERO.wav",
           "opacity": 0.88
@@ -2235,13 +2235,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/rowenna/Rowenna Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/rowenna/Rowenna Hero.ogg",
           "opacity": 0.88
@@ -2352,13 +2352,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/sabina/Sabina Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/sabina/Sabina Hero.ogg",
           "opacity": 0.88
@@ -2463,13 +2463,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/silverarrow/Silverarrow Minion.wav",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/silverarrow/Silverarrow Hero.wav",
           "opacity": 0.88
@@ -2592,13 +2592,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/snorri/SNORRI MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/snorri/SNORRI HERO.wav",
           "opacity": 0.88
@@ -2703,13 +2703,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/swift/SWIFT MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/swift/SWIFT HERO.wav",
           "opacity": 0.88
@@ -2826,13 +2826,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/takahide/TAKAHIDE MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/takahide/TAKAHIDE HERO.wav",
           "opacity": 0.88
@@ -2943,13 +2943,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/tali/TALI MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/tali/TALI HERO.wav",
           "opacity": 0.88
@@ -3219,13 +3219,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/trinkets/TRINKETS MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/trinkets/TRINKETS HERO.wav",
           "opacity": 0.88
@@ -3501,13 +3501,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/wasp/Wasp Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/wasp/Wasp Hero.ogg",
           "opacity": 0.88
@@ -3618,13 +3618,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/whisper/Whisper Minion.wav",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/whisper/Whisper Hero.wav",
           "opacity": 0.88
@@ -3735,13 +3735,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/widget/WIDGET MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/widget/WIDGET HERO.wav",
           "opacity": 0.88
@@ -3852,13 +3852,13 @@
           "opacity": 0.88
         },
         {
-          "name": "MINION",
+          "name": "MINION KILL",
           "color": "#6b7280",
           "file": "audio/wuk/WUK MINION.wav",
           "opacity": 0.88
         },
         {
-          "name": "HERO",
+          "name": "HERO KILL",
           "color": "#1f2937",
           "file": "audio/wuk/WUK HERO.wav",
           "opacity": 0.88
@@ -3957,13 +3957,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Minion",
+          "name": "Minion Kill",
           "color": "#6b7280",
           "file": "audio/xargatha/Xargatha Minion.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Hero",
+          "name": "Hero Kill",
           "color": "#1f2937",
           "file": "audio/xargatha/Xargatha Hero.ogg",
           "opacity": 0.88
