@@ -6,14 +6,94 @@
       "color": "#1e90ff",
       "sounds": [
         {
-          "name": "Begin Battle 1",
-          "color": "#d2b48c",
-          "file": "audio/arien/Arien Begin Battle 1.ogg"
+          "name": "Gold 1",
+          "color": "#eab308",
+          "file": "audio/arien/Arien Gold 1.ogg"
         },
         {
-          "name": "Begin Battle 2",
+          "name": "Gold 2",
+          "color": "#facc15",
+          "file": "audio/arien/Arien Gold 2.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/arien/Arien Silver.ogg"
+        },
+        {
+          "name": "Green 1",
+          "color": "#166534",
+          "file": "audio/arien/Arien Green 1.ogg"
+        },
+        {
+          "name": "Alt Green",
+          "color": "#16a34a",
+          "file": "audio/arien/Arien Green 2.ogg"
+        },
+        {
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/arien/Arien Blue 1.ogg"
+        },
+        {
+          "name": "Alt Blue 1",
+          "color": "#2563eb",
+          "file": "audio/arien/Arien Blue 2.ogg"
+        },
+        {
+          "name": "Alt Blue 2",
+          "color": "#3b82f6",
+          "file": "audio/arien/Arien Blue 3.ogg"
+        },
+        {
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/arien/Arien Red 1.ogg"
+        },
+        {
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/arien/Arien Red 2.ogg"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/arien/Arien Ult.ogg"
+        },
+        {
+          "name": "Move 1",
           "color": "#d2b48c",
-          "file": "audio/arien/Arien Begin Battle 2.ogg"
+          "file": "audio/arien/Arien Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/arien/Arien Move 2.ogg"
+        },
+        {
+          "name": "Move 3",
+          "color": "#b08968",
+          "file": "audio/arien/Arien Move 3.ogg"
+        },
+        {
+          "name": "Minion 1",
+          "color": "#6b7280",
+          "file": "audio/arien/Arien Minion 1.ogg"
+        },
+        {
+          "name": "Minion 2",
+          "color": "#6b7280",
+          "file": "audio/arien/Arien Minion 2.ogg"
+        },
+        {
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/arien/Arien Hero 1.ogg"
+        },
+        {
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/arien/Arien Hero 2.ogg"
         },
         {
           "name": "Block 1",
@@ -31,19 +111,24 @@
           "file": "audio/arien/Arien Block 3.ogg"
         },
         {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/arien/Arien Blue 1.ogg"
+          "name": "Lvl Up 1",
+          "color": "#fef08c",
+          "file": "audio/arien/Arien Lvl Up 1.ogg"
         },
         {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/arien/Arien Blue 2.ogg"
+          "name": "Lvl Up 2",
+          "color": "#fde047",
+          "file": "audio/arien/Arien Lvl Up 2.ogg"
         },
         {
-          "name": "Blue 3",
-          "color": "#3b82f6",
-          "file": "audio/arien/Arien Blue 3.ogg"
+          "name": "Taunt 1",
+          "color": "#d4d4d8",
+          "file": "audio/arien/Arien Taunt 1.ogg"
+        },
+        {
+          "name": "Taunt 2",
+          "color": "#d4d4d8",
+          "file": "audio/arien/Arien Taunt 2.ogg"
         },
         {
           "name": "Dying 1",
@@ -56,99 +141,14 @@
           "file": "audio/arien/Arien Dying 2.ogg"
         },
         {
-          "name": "Gold 1",
-          "color": "#a16207",
-          "file": "audio/arien/Arien Gold 1.ogg"
+          "name": "Begin Battle 1",
+          "color": "#d2b48c",
+          "file": "audio/arien/Arien Begin Battle 1.ogg"
         },
         {
-          "name": "Gold 2",
-          "color": "#ca8a04",
-          "file": "audio/arien/Arien Gold 2.ogg"
-        },
-        {
-          "name": "Green 1",
-          "color": "#166534",
-          "file": "audio/arien/Arien Green 1.ogg"
-        },
-        {
-          "name": "Green 2",
-          "color": "#16a34a",
-          "file": "audio/arien/Arien Green 2.ogg"
-        },
-        {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/arien/Arien Hero 1.ogg"
-        },
-        {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/arien/Arien Hero 2.ogg"
-        },
-        {
-          "name": "Lvl Up 1",
-          "color": "#facc15",
-          "file": "audio/arien/Arien Lvl Up 1.ogg"
-        },
-        {
-          "name": "Lvl Up 2",
-          "color": "#facc15",
-          "file": "audio/arien/Arien Lvl Up 2.ogg"
-        },
-        {
-          "name": "Minion 1",
-          "color": "#6b7280",
-          "file": "audio/arien/Arien Minion 1.ogg"
-        },
-        {
-          "name": "Minion 2",
-          "color": "#6b7280",
-          "file": "audio/arien/Arien Minion 2.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/arien/Arien Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/arien/Arien Move 2.ogg"
-        },
-        {
-          "name": "Move 3",
-          "color": "#0d9488",
-          "file": "audio/arien/Arien Move 3.ogg"
-        },
-        {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/arien/Arien Red 1.ogg"
-        },
-        {
-          "name": "Red 2",
-          "color": "#dc2626",
-          "file": "audio/arien/Arien Red 2.ogg"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/arien/Arien Silver.ogg"
-        },
-        {
-          "name": "Taunt 1",
-          "color": "#ffffff",
-          "file": "audio/arien/Arien Taunt 1.ogg"
-        },
-        {
-          "name": "Taunt 2",
-          "color": "#ffffff",
-          "file": "audio/arien/Arien Taunt 2.ogg"
-        },
-        {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/arien/Arien Ult.ogg"
+          "name": "Begin Battle 2",
+          "color": "#d2b48c",
+          "file": "audio/arien/Arien Begin Battle 2.ogg"
         }
       ]
     },
@@ -158,34 +158,14 @@
       "color": "#4a2040",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/bain/Bain Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/bain/Bain Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/bain/Bain Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/bain/Bain Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/bain/Bain Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/bain/Bain Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/bain/Bain Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -193,29 +173,19 @@
           "file": "audio/bain/Bain Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/bain/Bain Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/bain/Bain Hero.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/bain/Bain Blue 1.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/bain/Bain Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/bain/Bain Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/bain/Bain Move 1.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/bain/Bain Blue 2.ogg"
         },
         {
           "name": "Red",
@@ -223,19 +193,49 @@
           "file": "audio/bain/Bain Red.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/bain/Bain Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/bain/Bain Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/bain/Bain Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/bain/Bain Move 1.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/bain/Bain Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/bain/Bain Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/bain/Bain Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/bain/Bain Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/bain/Bain Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/bain/Bain Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/bain/Bain Begin Battle.ogg"
         }
       ]
     },
@@ -245,49 +245,19 @@
       "color": "#8b0000",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/brogan/Brogan Begin Battle.ogg"
-        },
-        {
-          "name": "Block 1",
-          "color": "#14b8a6",
-          "file": "audio/brogan/Brogan Block 1.ogg"
-        },
-        {
-          "name": "Block 2",
-          "color": "#14b8a6",
-          "file": "audio/brogan/Brogan Block 2.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/brogan/Brogan Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/brogan/Brogan Blue 2.ogg"
-        },
-        {
-          "name": "Dying 1",
-          "color": "#450a0a",
-          "file": "audio/brogan/Brogan Dying 1.ogg"
-        },
-        {
-          "name": "Dying 2",
-          "color": "#450a0a",
-          "file": "audio/brogan/Brogan Dying 2.ogg"
-        },
-        {
           "name": "Gold 1",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/brogan/Brogan Gold 1.ogg"
         },
         {
           "name": "Gold 2",
-          "color": "#ca8a04",
+          "color": "#facc15",
           "file": "audio/brogan/Brogan Gold 2.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/brogan/Brogan Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -295,24 +265,44 @@
           "file": "audio/brogan/Brogan Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/brogan/Brogan Green 2.ogg"
         },
         {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/brogan/Brogan Hero 1.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/brogan/Brogan Blue 1.ogg"
         },
         {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/brogan/Brogan Hero 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/brogan/Brogan Blue 2.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/brogan/Brogan Lvl Up.ogg"
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/brogan/Brogan Red 1.ogg"
+        },
+        {
+          "name": "Alt Red",
+          "color": "#ef4444",
+          "file": "audio/brogan/Brogan Red 2.ogg"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/brogan/Brogan Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/brogan/Brogan Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/brogan/Brogan Move 2.ogg"
         },
         {
           "name": "Minion 1",
@@ -325,44 +315,54 @@
           "file": "audio/brogan/Brogan Minion 2.ogg"
         },
         {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/brogan/Brogan Move 1.ogg"
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/brogan/Brogan Hero 1.ogg"
         },
         {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/brogan/Brogan Move 2.ogg"
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/brogan/Brogan Hero 2.ogg"
         },
         {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/brogan/Brogan Red 1.ogg"
+          "name": "Block 1",
+          "color": "#14b8a6",
+          "file": "audio/brogan/Brogan Block 1.ogg"
         },
         {
-          "name": "Red 2",
-          "color": "#ef4444",
-          "file": "audio/brogan/Brogan Red 2.ogg"
+          "name": "Block 2",
+          "color": "#14b8a6",
+          "file": "audio/brogan/Brogan Block 2.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/brogan/Brogan Silver.ogg"
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/brogan/Brogan Lvl Up.ogg"
         },
         {
           "name": "Taunt 1",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/brogan/Brogan Taunt 1.ogg"
         },
         {
           "name": "Taunt 2",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/brogan/Brogan Taunt 2.ogg"
         },
         {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/brogan/Brogan Ult.ogg"
+          "name": "Dying 1",
+          "color": "#450a0a",
+          "file": "audio/brogan/Brogan Dying 1.ogg"
+        },
+        {
+          "name": "Dying 2",
+          "color": "#450a0a",
+          "file": "audio/brogan/Brogan Dying 2.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/brogan/Brogan Begin Battle.ogg"
         }
       ]
     },
@@ -372,34 +372,14 @@
       "color": "#d3d3d3",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/brynn/Brynn Begin Battle.wav"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/brynn/Brynn Block.wav"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/brynn/Brynn Blue 1.wav"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/brynn/Brynn Blue 2.wav"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/brynn/Brynn Dying.wav"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/brynn/Brynn Gold.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/brynn/Brynn Silver.wav"
         },
         {
           "name": "Green 1",
@@ -407,34 +387,19 @@
           "file": "audio/brynn/Brynn Green 1.wav"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/brynn/Brynn Green 2.wav"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/brynn/Brynn Hero.wav"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/brynn/Brynn Blue 1.wav"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/brynn/Brynn Lvl Up.wav"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/brynn/Brynn Minion.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/brynn/Brynn Move 1.wav"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/brynn/Brynn Move 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/brynn/Brynn Blue 2.wav"
         },
         {
           "name": "Red 1",
@@ -442,24 +407,59 @@
           "file": "audio/brynn/Brynn Red 1.wav"
         },
         {
-          "name": "Red 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/brynn/Brynn Red 2.wav"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/brynn/Brynn Silver.wav"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/brynn/Brynn Taunt.wav"
         },
         {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/brynn/Brynn Ult.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/brynn/Brynn Move 1.wav"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/brynn/Brynn Move 2.wav"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/brynn/Brynn Minion.wav"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/brynn/Brynn Hero.wav"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/brynn/Brynn Block.wav"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/brynn/Brynn Lvl Up.wav"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/brynn/Brynn Taunt.wav"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/brynn/Brynn Dying.wav"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/brynn/Brynn Begin Battle.wav"
         }
       ]
     },
@@ -469,9 +469,79 @@
       "color": "#c4a484",
       "sounds": [
         {
-          "name": "Begin Battle",
+          "name": "Gold",
+          "color": "#eab308",
+          "file": "audio/cutter/Cutter Gold.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/cutter/Cutter Silver.wav"
+        },
+        {
+          "name": "Green 1",
+          "color": "#166534",
+          "file": "audio/cutter/Cutter Green 1.wav"
+        },
+        {
+          "name": "Alt Green 1",
+          "color": "#16a34a",
+          "file": "audio/cutter/Cutter Green 2.wav"
+        },
+        {
+          "name": "Alt Green 2",
+          "color": "#22c55e",
+          "file": "audio/cutter/Cutter Green 3.wav"
+        },
+        {
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/cutter/Cutter Blue 1.wav"
+        },
+        {
+          "name": "Alt Blue 1",
+          "color": "#2563eb",
+          "file": "audio/cutter/Cutter Blue 2.wav"
+        },
+        {
+          "name": "Alt Blue 2",
+          "color": "#3b82f6",
+          "file": "audio/cutter/Cutter Blue 3.wav"
+        },
+        {
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/cutter/Cutter Red 1.wav"
+        },
+        {
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/cutter/Cutter Red 2.wav"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/cutter/Cutter Ult.wav"
+        },
+        {
+          "name": "Move 1",
           "color": "#d2b48c",
-          "file": "audio/cutter/Cutter Begin Battle.wav"
+          "file": "audio/cutter/Cutter Move 1.wav"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/cutter/Cutter Move 2.wav"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/cutter/Cutter Minion.wav"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/cutter/Cutter Hero.wav"
         },
         {
           "name": "Block 1",
@@ -484,19 +554,14 @@
           "file": "audio/cutter/Cutter Block 2.wav"
         },
         {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/cutter/Cutter Blue 1.wav"
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/cutter/Cutter Lvl Up.wav"
         },
         {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/cutter/Cutter Blue 2.wav"
-        },
-        {
-          "name": "Blue 3",
-          "color": "#3b82f6",
-          "file": "audio/cutter/Cutter Blue 3.wav"
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/cutter/Cutter Taunt.wav"
         },
         {
           "name": "Dying",
@@ -504,74 +569,9 @@
           "file": "audio/cutter/Cutter Dying.wav"
         },
         {
-          "name": "Gold",
-          "color": "#a16207",
-          "file": "audio/cutter/Cutter Gold.wav"
-        },
-        {
-          "name": "Green 1",
-          "color": "#166534",
-          "file": "audio/cutter/Cutter Green 1.wav"
-        },
-        {
-          "name": "Green 2",
-          "color": "#16a34a",
-          "file": "audio/cutter/Cutter Green 2.wav"
-        },
-        {
-          "name": "Green 3",
-          "color": "#22c55e",
-          "file": "audio/cutter/Cutter Green 3.wav"
-        },
-        {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/cutter/Cutter Hero.wav"
-        },
-        {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/cutter/Cutter Lvl Up.wav"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/cutter/Cutter Minion.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/cutter/Cutter Move 1.wav"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/cutter/Cutter Move 2.wav"
-        },
-        {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/cutter/Cutter Red 1.wav"
-        },
-        {
-          "name": "Red 2",
-          "color": "#dc2626",
-          "file": "audio/cutter/Cutter Red 2.wav"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/cutter/Cutter Silver.wav"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/cutter/Cutter Taunt.wav"
-        },
-        {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/cutter/Cutter Ult.wav"
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/cutter/Cutter Begin Battle.wav"
         }
       ]
     },
@@ -581,49 +581,24 @@
       "color": "#1a1a1a",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/dodger/Dodger Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/dodger/Dodger Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/dodger/Dodger Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/dodger/Dodger Blue 2.ogg"
-        },
-        {
-          "name": "Blue 3",
-          "color": "#3b82f6",
-          "file": "audio/dodger/Dodger Blue 3.ogg"
-        },
-        {
-          "name": "Dying 1",
-          "color": "#450a0a",
-          "file": "audio/dodger/Dodger Dying 1.ogg"
-        },
-        {
-          "name": "Dying 2",
-          "color": "#450a0a",
-          "file": "audio/dodger/Dodger Dying 2.ogg"
-        },
-        {
           "name": "Gold 1",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/dodger/Dodger Gold 1.ogg"
         },
         {
           "name": "Gold 2",
-          "color": "#ca8a04",
+          "color": "#facc15",
           "file": "audio/dodger/Dodger Gold 2.ogg"
+        },
+        {
+          "name": "Silver 1",
+          "color": "#c0c0c0",
+          "file": "audio/dodger/Dodger Silver 1.ogg"
+        },
+        {
+          "name": "Silver 2",
+          "color": "#a8a29e",
+          "file": "audio/dodger/Dodger Silver 2.ogg"
         },
         {
           "name": "Green 1",
@@ -631,34 +606,59 @@
           "file": "audio/dodger/Dodger Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green 1",
           "color": "#16a34a",
           "file": "audio/dodger/Dodger Green 2.ogg"
         },
         {
-          "name": "Green 3",
+          "name": "Alt Green 2",
           "color": "#22c55e",
           "file": "audio/dodger/Dodger Green 3.ogg"
         },
         {
-          "name": "Green 4",
+          "name": "Alt Green 3",
           "color": "#4ade80",
           "file": "audio/dodger/Dodger Green 4.ogg"
         },
         {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/dodger/Dodger Hero 1.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/dodger/Dodger Blue 1.ogg"
         },
         {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/dodger/Dodger Hero 2.ogg"
+          "name": "Alt Blue 1",
+          "color": "#2563eb",
+          "file": "audio/dodger/Dodger Blue 2.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/dodger/Dodger Lvl Up.ogg"
+          "name": "Alt Blue 2",
+          "color": "#3b82f6",
+          "file": "audio/dodger/Dodger Blue 3.ogg"
+        },
+        {
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/dodger/Dodger Red 1.ogg"
+        },
+        {
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/dodger/Dodger Red 2.ogg"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/dodger/Dodger Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/dodger/Dodger Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/dodger/Dodger Move 2.ogg"
         },
         {
           "name": "Minion 1",
@@ -671,49 +671,49 @@
           "file": "audio/dodger/Dodger Minion 2.ogg"
         },
         {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/dodger/Dodger Move 1.ogg"
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/dodger/Dodger Hero 1.ogg"
         },
         {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/dodger/Dodger Move 2.ogg"
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/dodger/Dodger Hero 2.ogg"
         },
         {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/dodger/Dodger Red 1.ogg"
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/dodger/Dodger Block.ogg"
         },
         {
-          "name": "Red 2",
-          "color": "#dc2626",
-          "file": "audio/dodger/Dodger Red 2.ogg"
-        },
-        {
-          "name": "Silver 1",
-          "color": "#475569",
-          "file": "audio/dodger/Dodger Silver 1.ogg"
-        },
-        {
-          "name": "Silver 2",
-          "color": "#64748b",
-          "file": "audio/dodger/Dodger Silver 2.ogg"
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/dodger/Dodger Lvl Up.ogg"
         },
         {
           "name": "Taunt 1",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/dodger/Dodger Taunt 1.ogg"
         },
         {
           "name": "Taunt 2",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/dodger/Dodger Taunt 2.ogg"
         },
         {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/dodger/Dodger Ult.ogg"
+          "name": "Dying 1",
+          "color": "#450a0a",
+          "file": "audio/dodger/Dodger Dying 1.ogg"
+        },
+        {
+          "name": "Dying 2",
+          "color": "#450a0a",
+          "file": "audio/dodger/Dodger Dying 2.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/dodger/Dodger Begin Battle.ogg"
         }
       ]
     },
@@ -723,34 +723,14 @@
       "color": "#00bfff",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/emmitt/EMMITT BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/emmitt/EMMITT BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/emmitt/EMMITT BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/emmitt/EMMITT BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/emmitt/EMMITT DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/emmitt/EMMITT GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/emmitt/EMMITT SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -758,39 +738,19 @@
           "file": "audio/emmitt/EMMITT GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/emmitt/EMMITT GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/emmitt/EMMITT HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/emmitt/EMMITT BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/emmitt/EMMITT LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/emmitt/EMMITT MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/emmitt/EMMITT MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/emmitt/EMMITT MOVE 2.wav"
-        },
-        {
-          "name": "MOVE 3",
-          "color": "#0d9488",
-          "file": "audio/emmitt/EMMITT MOVE 3.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/emmitt/EMMITT BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -798,24 +758,64 @@
           "file": "audio/emmitt/EMMITT RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/emmitt/EMMITT RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/emmitt/EMMITT SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/emmitt/EMMITT TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/emmitt/EMMITT ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/emmitt/EMMITT MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/emmitt/EMMITT MOVE 2.wav"
+        },
+        {
+          "name": "MOVE 3",
+          "color": "#b08968",
+          "file": "audio/emmitt/EMMITT MOVE 3.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/emmitt/EMMITT MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/emmitt/EMMITT HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/emmitt/EMMITT BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/emmitt/EMMITT LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/emmitt/EMMITT TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/emmitt/EMMITT DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/emmitt/EMMITT BEGIN BATTLE.wav"
         }
       ]
     },
@@ -825,34 +825,14 @@
       "color": "#a0522d",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/garrus/Garrus Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/garrus/Garrus Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/garrus/Garrus Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/garrus/Garrus Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/garrus/Garrus Drying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/garrus/Garrus Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/garrus/Garrus Silver.m4a"
         },
         {
           "name": "Green 1",
@@ -860,34 +840,19 @@
           "file": "audio/garrus/Garrus Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/garrus/Garrus Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/garrus/Garrus Hero.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/garrus/Garrus Blue 1.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/garrus/Garrus Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/garrus/Garrus Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/garrus/Garrus Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/garrus/Garrus Move 2.m4a"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/garrus/Garrus Blue 2.ogg"
         },
         {
           "name": "Red 1",
@@ -895,24 +860,59 @@
           "file": "audio/garrus/Garrus Red 1.ogg"
         },
         {
-          "name": "Red 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/garrus/Garrus Red 2.ogg"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/garrus/Garrus Silver.m4a"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/garrus/Garrus Taunt.ogg"
         },
         {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/garrus/Garrus Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/garrus/Garrus Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/garrus/Garrus Move 2.m4a"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/garrus/Garrus Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/garrus/Garrus Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/garrus/Garrus Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/garrus/Garrus Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/garrus/Garrus Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/garrus/Garrus Drying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/garrus/Garrus Begin Battle.ogg"
         }
       ]
     },
@@ -922,14 +922,24 @@
       "color": "#ff6b6b",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/gydion/GYDION BEGIN BATTLE.wav"
+          "name": "GOLD",
+          "color": "#eab308",
+          "file": "audio/gydion/GYDION GOLD.wav"
         },
         {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/gydion/GYDION BLOCK.wav"
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/gydion/GYDION SILVER.wav"
+        },
+        {
+          "name": "GREEN 1",
+          "color": "#166534",
+          "file": "audio/gydion/GYDION GREEN 1.wav"
+        },
+        {
+          "name": "Alt Green",
+          "color": "#16a34a",
+          "file": "audio/gydion/GYDION GREEN 2.wav"
         },
         {
           "name": "BLUE 1",
@@ -937,9 +947,64 @@
           "file": "audio/gydion/GYDION BLUE 1.wav"
         },
         {
-          "name": "BLUE 2",
+          "name": "Alt Blue",
           "color": "#2563eb",
           "file": "audio/gydion/GYDION BLUE 2.wav"
+        },
+        {
+          "name": "RED 1",
+          "color": "#991b1b",
+          "file": "audio/gydion/GYDION RED 1.wav"
+        },
+        {
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/gydion/GYDION RED 2.wav"
+        },
+        {
+          "name": "ULT",
+          "color": "#4c1d95",
+          "file": "audio/gydion/GYDION ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/gydion/GYDION MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/gydion/GYDION MOVE 2.wav"
+        },
+        {
+          "name": "MOVE 3",
+          "color": "#b08968",
+          "file": "audio/gydion/GYDION MOVE 3.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/gydion/GYDION MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/gydion/GYDION HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/gydion/GYDION BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/gydion/GYDION LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/gydion/GYDION TAUNT.wav"
         },
         {
           "name": "DYING 1",
@@ -952,74 +1017,9 @@
           "file": "audio/gydion/GYDION DYING 2.wav"
         },
         {
-          "name": "GOLD",
-          "color": "#a16207",
-          "file": "audio/gydion/GYDION GOLD.wav"
-        },
-        {
-          "name": "GREEN 1",
-          "color": "#166534",
-          "file": "audio/gydion/GYDION GREEN 1.wav"
-        },
-        {
-          "name": "GREEN 2",
-          "color": "#16a34a",
-          "file": "audio/gydion/GYDION GREEN 2.wav"
-        },
-        {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/gydion/GYDION HERO.wav"
-        },
-        {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/gydion/GYDION LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/gydion/GYDION MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/gydion/GYDION MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/gydion/GYDION MOVE 2.wav"
-        },
-        {
-          "name": "MOVE 3",
-          "color": "#0d9488",
-          "file": "audio/gydion/GYDION MOVE 3.wav"
-        },
-        {
-          "name": "RED 1",
-          "color": "#991b1b",
-          "file": "audio/gydion/GYDION RED 1.wav"
-        },
-        {
-          "name": "RED 2",
-          "color": "#dc2626",
-          "file": "audio/gydion/GYDION RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/gydion/GYDION SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/gydion/GYDION TAUNT.wav"
-        },
-        {
-          "name": "ULT",
-          "color": "#4c1d95",
-          "file": "audio/gydion/GYDION ULT.wav"
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/gydion/GYDION BEGIN BATTLE.wav"
         }
       ]
     },
@@ -1029,34 +1029,19 @@
       "color": "#c2a05a",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/hanu/Hanu Begin Battle.wav"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/hanu/Hanu Block.m4a"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/hanu/Hanu Blue 1.wav"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/hanu/Hanu Blue 2.wav"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/hanu/Hanu Dying.m4a"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/hanu/Hanu Gold.m4a"
+        },
+        {
+          "name": "Silver 1",
+          "color": "#c0c0c0",
+          "file": "audio/hanu/Hanu Silver 1.wav"
+        },
+        {
+          "name": "Silver 2",
+          "color": "#a8a29e",
+          "file": "audio/hanu/Hanu Silver 2.wav"
         },
         {
           "name": "Green 1",
@@ -1064,34 +1049,19 @@
           "file": "audio/hanu/Hanu Green 1.wav"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/hanu/Hanu Green 2.wav"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/hanu/Hanu Hero.wav"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/hanu/Hanu Blue 1.wav"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/hanu/Hanu Lvl Up.wav"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/hanu/Hanu Minion.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/hanu/Hanu Move 1.m4a"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/hanu/Hanu Move 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/hanu/Hanu Blue 2.wav"
         },
         {
           "name": "Red",
@@ -1099,24 +1069,54 @@
           "file": "audio/hanu/Hanu Red.wav"
         },
         {
-          "name": "Silver 1",
-          "color": "#475569",
-          "file": "audio/hanu/Hanu Silver 1.wav"
-        },
-        {
-          "name": "Silver 2",
-          "color": "#64748b",
-          "file": "audio/hanu/Hanu Silver 2.wav"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/hanu/Hanu Taunt.wav"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/hanu/Hanu Ult.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/hanu/Hanu Move 1.m4a"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/hanu/Hanu Move 2.wav"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/hanu/Hanu Minion.wav"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/hanu/Hanu Hero.wav"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/hanu/Hanu Block.m4a"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/hanu/Hanu Lvl Up.wav"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/hanu/Hanu Taunt.wav"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/hanu/Hanu Dying.m4a"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/hanu/Hanu Begin Battle.wav"
         }
       ]
     },
@@ -1126,34 +1126,14 @@
       "color": "#ffd700",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/ignatia/IGNATIA BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/ignatia/IGNATIA BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/ignatia/IGNATIA BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/ignatia/IGNATIA BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/ignatia/IGNATIA DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/ignatia/IGNATIA GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/ignatia/IGNATIA SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -1161,34 +1141,19 @@
           "file": "audio/ignatia/IGNATIA GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/ignatia/IGNATIA GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/ignatia/IGNATIA HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/ignatia/IGNATIA BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/ignatia/IGNATIA LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/ignatia/IGNATIA MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/ignatia/IGNATIA MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/ignatia/IGNATIA MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/ignatia/IGNATIA BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -1196,24 +1161,59 @@
           "file": "audio/ignatia/IGNATIA RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/ignatia/IGNATIA RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/ignatia/IGNATIA SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/ignatia/IGNATIA TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/ignatia/IGNATIA ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/ignatia/IGNATIA MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/ignatia/IGNATIA MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/ignatia/IGNATIA MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/ignatia/IGNATIA HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/ignatia/IGNATIA BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/ignatia/IGNATIA LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/ignatia/IGNATIA TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/ignatia/IGNATIA DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/ignatia/IGNATIA BEGIN BATTLE.wav"
         }
       ]
     },
@@ -1223,34 +1223,14 @@
       "color": "#ff2400",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/min/Min Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/min/Min Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/min/Min Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/min/Min Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/min/Min Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/min/Min Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/min/Min Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -1258,39 +1238,19 @@
           "file": "audio/min/Min Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/min/Min Green 2.ogg"
         },
         {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/min/Min Hero 1.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/min/Min Blue 1.ogg"
         },
         {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/min/Min Hero 2.mp3"
-        },
-        {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/min/Min Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/min/Min Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/min/Min Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/min/Min Move 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/min/Min Blue 2.ogg"
         },
         {
           "name": "Red Cobra",
@@ -1318,19 +1278,59 @@
           "file": "audio/min/Min Red Viper.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/min/Min Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/min/Min Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/min/Min Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/min/Min Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/min/Min Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/min/Min Minion.ogg"
+        },
+        {
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/min/Min Hero 1.ogg"
+        },
+        {
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/min/Min Hero 2.mp3"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/min/Min Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/min/Min Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/min/Min Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/min/Min Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/min/Min Begin Battle.ogg"
         }
       ]
     },
@@ -1340,34 +1340,14 @@
       "color": "#556b2f",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/misa/Misa Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/misa/Misa Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/misa/Misa Blue 1.m4a"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/misa/Misa Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/misa/Misa Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/misa/Misa Gold.m4a"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/misa/Misa Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -1375,34 +1355,19 @@
           "file": "audio/misa/Misa Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/misa/Misa Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/misa/Misa Hero.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/misa/Misa Blue 1.m4a"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/misa/Misa Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/misa/Misa Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/misa/Misa Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/misa/Misa Move 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/misa/Misa Blue 2.ogg"
         },
         {
           "name": "Red",
@@ -1410,19 +1375,54 @@
           "file": "audio/misa/Misa Red.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/misa/Misa Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/misa/Misa Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/misa/Misa Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/misa/Misa Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/misa/Misa Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/misa/Misa Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/misa/Misa Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/misa/Misa Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/misa/Misa Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/misa/Misa Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/misa/Misa Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/misa/Misa Begin Battle.ogg"
         }
       ]
     },
@@ -1432,34 +1432,14 @@
       "color": "#6b5b7a",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/mortimer/Mortimer Begin Battle.m4a"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/mortimer/MORIMER BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/mortimer/MORIMER BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/mortimer/MORIMER BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/mortimer/MORIMER DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/mortimer/MORIMER GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/mortimer/MORIMER SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -1467,34 +1447,19 @@
           "file": "audio/mortimer/MORIMER GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/mortimer/MORIMER GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/mortimer/MORIMER HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/mortimer/MORIMER BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/mortimer/MORIMER LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/mortimer/MORIMER MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/mortimer/MORIMER MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/mortimer/MORIMER MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/mortimer/MORIMER BLUE 2.wav"
         },
         {
           "name": "Red",
@@ -1502,19 +1467,54 @@
           "file": "audio/mortimer/Mortimer Red 1.mp3"
         },
         {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/mortimer/MORIMER SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/mortimer/MORIMER TAUNT.wav"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/mortimer/Mortimer Ult.m4a"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/mortimer/MORIMER MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/mortimer/MORIMER MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/mortimer/MORIMER MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/mortimer/MORIMER HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/mortimer/MORIMER BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/mortimer/MORIMER LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/mortimer/MORIMER TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/mortimer/MORIMER DYING.wav"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/mortimer/Mortimer Begin Battle.m4a"
         }
       ]
     },
@@ -1524,14 +1524,24 @@
       "color": "#4169e1",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/mrak/MRAK BEGIN BATTLE.wav"
+          "name": "GOLD",
+          "color": "#eab308",
+          "file": "audio/mrak/MRAK GOLD.wav"
         },
         {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/mrak/MRAK BLOCK.wav"
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/mrak/MRAK SILVER.wav"
+        },
+        {
+          "name": "GREEN 1",
+          "color": "#16a34a",
+          "file": "audio/mrak/MRAK GREEN 1.wav"
+        },
+        {
+          "name": "Alt Green",
+          "color": "#16a34a",
+          "file": "audio/mrak/MRAK GREEN 2.wav"
         },
         {
           "name": "BLUE",
@@ -1539,34 +1549,29 @@
           "file": "audio/mrak/MRAK BLUE.wav"
         },
         {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/mrak/MRAK DYING.wav"
+          "name": "RED 1",
+          "color": "#991b1b",
+          "file": "audio/mrak/MRAK RED 1.wav"
         },
         {
-          "name": "GOLD",
-          "color": "#a16207",
-          "file": "audio/mrak/MRAK GOLD.wav"
-        },
-         {
-          "name": "GREEN 1",
-          "color": "#16a34a",
-          "file": "audio/mrak/MRAK GREEN 1.wav"
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/mrak/MRAK RED 2.wav"
         },
         {
-          "name": "GREEN 2",
-          "color": "#16a34a",
-          "file": "audio/mrak/MRAK GREEN 2.wav"
+          "name": "ULT",
+          "color": "#4c1d95",
+          "file": "audio/mrak/MRAK ULT.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/mrak/MRAK HERO.wav"
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/mrak/MRAK MOVE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/mrak/MRAK LVL UP.wav"
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/mrak/MRAK MOVE 2.wav"
         },
         {
           "name": "MINION",
@@ -1574,39 +1579,34 @@
           "file": "audio/mrak/MRAK MINION.wav"
         },
         {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/mrak/MRAK MOVE 1.wav"
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/mrak/MRAK HERO.wav"
         },
         {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/mrak/MRAK MOVE 2.wav"
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/mrak/MRAK BLOCK.wav"
         },
         {
-          "name": "RED 1",
-          "color": "#991b1b",
-          "file": "audio/mrak/MRAK RED 1.wav"
-        },
-         {
-          "name": "RED 2",
-          "color": "#dc2626",
-          "file": "audio/mrak/MRAK RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/mrak/MRAK SILVER.wav"
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/mrak/MRAK LVL UP.wav"
         },
         {
           "name": "TAUNT",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/mrak/MRAK TAUNT.wav"
         },
         {
-          "name": "ULT",
-          "color": "#4c1d95",
-          "file": "audio/mrak/MRAK ULT.wav"
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/mrak/MRAK DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/mrak/MRAK BEGIN BATTLE.wav"
         }
       ]
     },
@@ -1616,34 +1616,14 @@
       "color": "#b8860b",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/nebkher/NEBKHER BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/nebkher/NEBKHER BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/nebkher/NEBKHER BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/nebkher/NEBKHER BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/nebkher/NEBKHER DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/nebkher/NEBKHER GOLD.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/nebkher/Nebkher Silver.m4a"
         },
         {
           "name": "GREEN 1",
@@ -1651,29 +1631,19 @@
           "file": "audio/nebkher/NEBKHER GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/nebkher/NEBKHER GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/nebkher/NEBKHER HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/nebkher/NEBKHER BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/nebkher/NEBKHER LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/nebkher/NEBKHER MINION.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/nebkher/NEBKHER MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/nebkher/NEBKHER BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -1681,24 +1651,54 @@
           "file": "audio/nebkher/NEBKHER RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/nebkher/NEBKHER RED 2.wav"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/nebkher/Nebkher Silver.m4a"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/nebkher/NEBKHER TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/nebkher/NEBKHER ULT.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#d2b48c",
+          "file": "audio/nebkher/NEBKHER MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/nebkher/NEBKHER MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/nebkher/NEBKHER HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/nebkher/NEBKHER BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/nebkher/NEBKHER LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/nebkher/NEBKHER TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/nebkher/NEBKHER DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/nebkher/NEBKHER BEGIN BATTLE.wav"
         }
       ]
     },
@@ -1708,34 +1708,14 @@
       "color": "#4b0082",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/razzle/RAZZLE BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/razzle/RAZZLE BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/razzle/RAZZLE BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/razzle/RAZZLE BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/razzle/RAZZLE DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/razzle/RAZZLE GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/razzle/RAZZLE SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -1743,34 +1723,19 @@
           "file": "audio/razzle/RAZZLE GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/razzle/RAZZLE GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/razzle/RAZZLE HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/razzle/RAZZLE BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/razzle/RAZZLE LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/razzle/RAZZLE MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/razzle/RAZZLE MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/razzle/RAZZLE MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/razzle/RAZZLE BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -1778,24 +1743,59 @@
           "file": "audio/razzle/RAZZLE RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/razzle/RAZZLE RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/razzle/RAZZLE SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/razzle/RAZZLE TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/razzle/RAZZLE ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/razzle/RAZZLE MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/razzle/RAZZLE MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/razzle/RAZZLE MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/razzle/RAZZLE HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/razzle/RAZZLE BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/razzle/RAZZLE LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/razzle/RAZZLE TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/razzle/RAZZLE DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/razzle/RAZZLE BEGIN BATTLE.wav"
         }
       ]
     },
@@ -1805,34 +1805,14 @@
       "color": "#2f2f2f",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/rowenna/Rowenna Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/rowenna/Rowenna Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/rowenna/Rowenna Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/rowenna/Rowenna Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/rowenna/Rowenna Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/rowenna/Rowenna Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/rowenna/Rowenna Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -1840,34 +1820,19 @@
           "file": "audio/rowenna/Rowenna Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/rowenna/Rowenna Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/rowenna/Rowenna Hero.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/rowenna/Rowenna Blue 1.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/rowenna/Rowenna Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/rowenna/Rowenna Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/rowenna/Rowenna Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/rowenna/Rowenna Move 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/rowenna/Rowenna Blue 2.ogg"
         },
         {
           "name": "Red",
@@ -1875,19 +1840,54 @@
           "file": "audio/rowenna/Rowenna Red.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/rowenna/Rowenna Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/rowenna/Rowenna Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/rowenna/Rowenna Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/rowenna/Rowenna Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/rowenna/Rowenna Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/rowenna/Rowenna Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/rowenna/Rowenna Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/rowenna/Rowenna Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/rowenna/Rowenna Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/rowenna/Rowenna Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/rowenna/Rowenna Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/rowenna/Rowenna Begin Battle.ogg"
         }
       ]
     },
@@ -1897,34 +1897,14 @@
       "color": "#8b4513",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/sabina/Sabina Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/sabina/Sabina Block.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/sabina/Sabina Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/sabina/Sabina Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/sabina/Sabina Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/sabina/Sabina Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/sabina/Sabina Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -1932,34 +1912,19 @@
           "file": "audio/sabina/Sabina Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/sabina/Sabina Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/sabina/Sabina Hero.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/sabina/Sabina Blue 1.ogg"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/sabina/Sabina Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/sabina/Sabina Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/sabina/Sabina Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/sabina/Sabina Move 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/sabina/Sabina Blue 2.ogg"
         },
         {
           "name": "Red 1",
@@ -1967,24 +1932,59 @@
           "file": "audio/sabina/Sabina Red 1.ogg"
         },
         {
-          "name": "Red 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/sabina/Sabina Red 2.ogg"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/sabina/Sabina Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/sabina/Sabina Taunt.ogg"
         },
         {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/sabina/Sabina Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/sabina/Sabina Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/sabina/Sabina Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/sabina/Sabina Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/sabina/Sabina Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/sabina/Sabina Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/sabina/Sabina Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/sabina/Sabina Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/sabina/Sabina Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/sabina/Sabina Begin Battle.ogg"
         }
       ]
     },
@@ -1994,34 +1994,14 @@
       "color": "#2e4a1e",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/silverarrow/Silverarrow Begin Battle.wav"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/silverarrow/Silverarrow Block.wav"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/silverarrow/Silverarrow Blue 1.wav"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/silverarrow/Silverarrow Blue 2.wav"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/silverarrow/Silverarrow Dying.wav"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/silverarrow/Silverarrow Gold.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/silverarrow/Silverarrow Silver.wav"
         },
         {
           "name": "Green 1",
@@ -2029,34 +2009,19 @@
           "file": "audio/silverarrow/Silverarrow Green 1.wav"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/silverarrow/Silverarrow Green 2.wav"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/silverarrow/Silverarrow Hero.wav"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/silverarrow/Silverarrow Blue 1.wav"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/silverarrow/Silverarrow Lvl Up.wav"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/silverarrow/Silverarrow Minion.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/silverarrow/Silverarrow Move 1.wav"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/silverarrow/Silverarrow Move 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/silverarrow/Silverarrow Blue 2.wav"
         },
         {
           "name": "Red",
@@ -2064,19 +2029,54 @@
           "file": "audio/silverarrow/Silverarrow Red.wav"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/silverarrow/Silverarrow Silver.wav"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/silverarrow/Silverarrow Taunt.wav"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/silverarrow/Silverarrow Ult.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/silverarrow/Silverarrow Move 1.wav"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/silverarrow/Silverarrow Move 2.wav"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/silverarrow/Silverarrow Minion.wav"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/silverarrow/Silverarrow Hero.wav"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/silverarrow/Silverarrow Block.wav"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/silverarrow/Silverarrow Lvl Up.wav"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/silverarrow/Silverarrow Taunt.wav"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/silverarrow/Silverarrow Dying.wav"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/silverarrow/Silverarrow Begin Battle.wav"
         }
       ]
     },
@@ -2086,34 +2086,14 @@
       "color": "#50c878",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/snorri/SNORRI BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/snorri/SNORRI BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/snorri/SNORRI BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/snorri/SNORRI BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/snorri/SNORRI DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/snorri/SNORRI GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/snorri/SNORRI SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -2121,39 +2101,19 @@
           "file": "audio/snorri/SNORRI GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/snorri/SNORRI GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/snorri/SNORRI HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/snorri/SNORRI BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/snorri/SNORRI LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/snorri/SNORRI MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/snorri/SNORRI MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/snorri/SNORRI MOVE 2.wav"
-        },
-        {
-          "name": "MOVE 3",
-          "color": "#0d9488",
-          "file": "audio/snorri/SNORRI MOVE 3.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/snorri/SNORRI BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -2161,29 +2121,69 @@
           "file": "audio/snorri/SNORRI RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red 1",
           "color": "#dc2626",
           "file": "audio/snorri/SNORRI RED 2.wav"
         },
         {
-          "name": "RED 3",
+          "name": "Alt Red 2",
           "color": "#ef4444",
           "file": "audio/snorri/SNORRI RED 3.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/snorri/SNORRI SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/snorri/SNORRI TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/snorri/SNORRI ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/snorri/SNORRI MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/snorri/SNORRI MOVE 2.wav"
+        },
+        {
+          "name": "MOVE 3",
+          "color": "#b08968",
+          "file": "audio/snorri/SNORRI MOVE 3.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/snorri/SNORRI MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/snorri/SNORRI HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/snorri/SNORRI BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/snorri/SNORRI LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/snorri/SNORRI TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/snorri/SNORRI DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/snorri/SNORRI BEGIN BATTLE.wav"
         }
       ]
     },
@@ -2193,29 +2193,14 @@
       "color": "#c0c0c0",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/swift/SWIFT BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/swift/SWIFT BLOCK.wav"
-        },
-        {
-          "name": "BLUE",
-          "color": "#1e40af",
-          "file": "audio/swift/SWIFT BLUE.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/swift/SWIFT DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/swift/SWIFT GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/swift/SWIFT SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -2223,39 +2208,14 @@
           "file": "audio/swift/SWIFT GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/swift/SWIFT GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/swift/SWIFT HERO.wav"
-        },
-        {
-          "name": "LVL UP 1",
-          "color": "#facc15",
-          "file": "audio/swift/SWIFT LVL UP 1.wav"
-        },
-        {
-          "name": "LVL UP 2",
-          "color": "#facc15",
-          "file": "audio/swift/SWIFT LVL UP 2.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/swift/SWIFT MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/swift/SWIFT MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/swift/SWIFT MOVE 2.wav"
+          "name": "BLUE",
+          "color": "#1e40af",
+          "file": "audio/swift/SWIFT BLUE.wav"
         },
         {
           "name": "RED 1",
@@ -2263,24 +2223,64 @@
           "file": "audio/swift/SWIFT RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/swift/SWIFT RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/swift/SWIFT SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/swift/SWIFT TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/swift/SWIFT ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/swift/SWIFT MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/swift/SWIFT MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/swift/SWIFT MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/swift/SWIFT HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/swift/SWIFT BLOCK.wav"
+        },
+        {
+          "name": "LVL UP 1",
+          "color": "#fef08c",
+          "file": "audio/swift/SWIFT LVL UP 1.wav"
+        },
+        {
+          "name": "LVL UP 2",
+          "color": "#fde047",
+          "file": "audio/swift/SWIFT LVL UP 2.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/swift/SWIFT TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/swift/SWIFT DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/swift/SWIFT BEGIN BATTLE.wav"
         }
       ]
     },
@@ -2290,39 +2290,19 @@
       "color": "#808080",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/takahide/TAKAHIDE BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/takahide/TAKAHIDE BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/takahide/TAKAHIDE BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/takahide/TAKAHIDE BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/takahide/TAKAHIDE DYING.wav"
-        },
-        {
           "name": "GOLD 1",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/takahide/TAKAHIDE GOLD 1.wav"
         },
         {
           "name": "GOLD 2",
-          "color": "#ca8a04",
+          "color": "#facc15",
           "file": "audio/takahide/TAKAHIDE GOLD 2.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/takahide/TAKAHIDE SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -2330,29 +2310,19 @@
           "file": "audio/takahide/TAKAHIDE GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/takahide/TAKAHIDE GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/takahide/TAKAHIDE HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/takahide/TAKAHIDE BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/takahide/TAKAHIDE LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/takahide/TAKAHIDE MINION.wav"
-        },
-        {
-          "name": "MOVE",
-          "color": "#0d9488",
-          "file": "audio/takahide/TAKAHIDE MOVE.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/takahide/TAKAHIDE BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -2360,24 +2330,54 @@
           "file": "audio/takahide/TAKAHIDE RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/takahide/TAKAHIDE RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/takahide/TAKAHIDE SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/takahide/TAKAHIDE TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/takahide/TAKAHIDE ULT.wav"
+        },
+        {
+          "name": "MOVE",
+          "color": "#d2b48c",
+          "file": "audio/takahide/TAKAHIDE MOVE.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/takahide/TAKAHIDE MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/takahide/TAKAHIDE HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/takahide/TAKAHIDE BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/takahide/TAKAHIDE LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/takahide/TAKAHIDE TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/takahide/TAKAHIDE DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/takahide/TAKAHIDE BEGIN BATTLE.wav"
         }
       ]
     },
@@ -2387,34 +2387,14 @@
       "color": "#6a5acd",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/tali/TALI BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/tali/TALI BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/tali/TALI BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/tali/TALI BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/tali/TALI DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/tali/TALI GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/tali/TALI SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -2422,34 +2402,19 @@
           "file": "audio/tali/TALI GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/tali/TALI GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/tali/TALI HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/tali/TALI BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/tali/TALI LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/tali/TALI MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/tali/TALI MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/tali/TALI MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/tali/TALI BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -2457,24 +2422,59 @@
           "file": "audio/tali/TALI RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/tali/TALI RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/tali/TALI SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/tali/TALI TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/tali/TALI ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/tali/TALI MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/tali/TALI MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/tali/TALI MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/tali/TALI HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/tali/TALI BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/tali/TALI LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/tali/TALI TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/tali/TALI DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/tali/TALI BEGIN BATTLE.wav"
         }
       ]
     },
@@ -2484,44 +2484,24 @@
       "color": "#d2691e",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/tigerclaw/Tigerclaw Begin Battle.ogg"
-        },
-        {
-          "name": "Block 1",
-          "color": "#14b8a6",
-          "file": "audio/tigerclaw/Tigerclaw Block 1.ogg"
-        },
-        {
-          "name": "Block 2",
-          "color": "#14b8a6",
-          "file": "audio/tigerclaw/Tigerclaw Block 2.ogg"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/tigerclaw/Tigerclaw Blue 1.ogg"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/tigerclaw/Tigerclaw Blue 2.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/tigerclaw/Tigerclaw Dying.ogg"
-        },
-        {
           "name": "Gold 1",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/tigerclaw/Tigerclaw Gold 1.ogg"
         },
         {
           "name": "Gold 2",
-          "color": "#ca8a04",
+          "color": "#facc15",
           "file": "audio/tigerclaw/Tigerclaw Gold 2.ogg"
+        },
+        {
+          "name": "Silver 1",
+          "color": "#c0c0c0",
+          "file": "audio/tigerclaw/Tigerclaw Silver 1.ogg"
+        },
+        {
+          "name": "Silver 2",
+          "color": "#a8a29e",
+          "file": "audio/tigerclaw/Tigerclaw Silver 2.ogg"
         },
         {
           "name": "Green 1",
@@ -2529,34 +2509,49 @@
           "file": "audio/tigerclaw/Tigerclaw Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green 1",
           "color": "#16a34a",
           "file": "audio/tigerclaw/Tigerclaw Green 2.ogg"
         },
         {
-          "name": "Green 3",
+          "name": "Alt Green 2",
           "color": "#22c55e",
           "file": "audio/tigerclaw/Tigerclaw Green 3.ogg"
         },
         {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/tigerclaw/Tigerclaw Hero 1.ogg"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/tigerclaw/Tigerclaw Blue 1.ogg"
         },
         {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/tigerclaw/Tigerclaw Hero 2.ogg"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/tigerclaw/Tigerclaw Blue 2.ogg"
         },
         {
-          "name": "Lvl Up 1",
-          "color": "#facc15",
-          "file": "audio/tigerclaw/Tigerclaw Lvl Up 1.ogg"
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/tigerclaw/Tigerclaw Red 1.ogg"
         },
         {
-          "name": "Lvl Up 2",
-          "color": "#facc15",
-          "file": "audio/tigerclaw/Tigerclaw Lvl Up 2.ogg"
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/tigerclaw/Tigerclaw Red 2.ogg"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/tigerclaw/Tigerclaw Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/tigerclaw/Tigerclaw Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/tigerclaw/Tigerclaw Move 2.ogg"
         },
         {
           "name": "Minion 1",
@@ -2569,44 +2564,49 @@
           "file": "audio/tigerclaw/Tigerclaw Minion 2.ogg"
         },
         {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/tigerclaw/Tigerclaw Move 1.ogg"
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/tigerclaw/Tigerclaw Hero 1.ogg"
         },
         {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/tigerclaw/Tigerclaw Move 2.ogg"
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/tigerclaw/Tigerclaw Hero 2.ogg"
         },
         {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/tigerclaw/Tigerclaw Red 1.ogg"
+          "name": "Block 1",
+          "color": "#14b8a6",
+          "file": "audio/tigerclaw/Tigerclaw Block 1.ogg"
         },
         {
-          "name": "Red 2",
-          "color": "#dc2626",
-          "file": "audio/tigerclaw/Tigerclaw Red 2.ogg"
+          "name": "Block 2",
+          "color": "#14b8a6",
+          "file": "audio/tigerclaw/Tigerclaw Block 2.ogg"
         },
         {
-          "name": "Silver 1",
-          "color": "#475569",
-          "file": "audio/tigerclaw/Tigerclaw Silver 1.ogg"
+          "name": "Lvl Up 1",
+          "color": "#fef08c",
+          "file": "audio/tigerclaw/Tigerclaw Lvl Up 1.ogg"
         },
         {
-          "name": "Silver 2",
-          "color": "#64748b",
-          "file": "audio/tigerclaw/Tigerclaw Silver 2.ogg"
+          "name": "Lvl Up 2",
+          "color": "#fde047",
+          "file": "audio/tigerclaw/Tigerclaw Lvl Up 2.ogg"
         },
         {
           "name": "Taunt",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/tigerclaw/Tigerclaw Taunt.ogg"
         },
         {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/tigerclaw/Tigerclaw Ult.ogg"
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/tigerclaw/Tigerclaw Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/tigerclaw/Tigerclaw Begin Battle.ogg"
         }
       ]
     },
@@ -2616,34 +2616,14 @@
       "color": "#4a2c2a",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/trinkets/TRINKETS BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/trinkets/TRINKETS BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/trinkets/TRINKETS BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/trinkets/TRINKETS BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/trinkets/TRINKETS DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/trinkets/TRINKETS GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/trinkets/TRINKETS SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -2651,34 +2631,19 @@
           "file": "audio/trinkets/TRINKETS GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/trinkets/TRINKETS GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/trinkets/TRINKETS HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/trinkets/TRINKETS BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/trinkets/TRINKETS LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/trinkets/TRINKETS MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/trinkets/TRINKETS MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/trinkets/TRINKETS MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/trinkets/TRINKETS BLUE 2.wav"
         },
         {
           "name": "Red 1",
@@ -2686,24 +2651,59 @@
           "file": "audio/trinkets/Trinkets Red 1.m4a"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/trinkets/TRINKETS RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/trinkets/TRINKETS SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/trinkets/TRINKETS TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/trinkets/TRINKETS ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/trinkets/TRINKETS MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/trinkets/TRINKETS MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/trinkets/TRINKETS MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/trinkets/TRINKETS HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/trinkets/TRINKETS BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/trinkets/TRINKETS LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/trinkets/TRINKETS TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/trinkets/TRINKETS DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/trinkets/TRINKETS BEGIN BATTLE.wav"
         }
       ]
     },
@@ -2713,54 +2713,19 @@
       "color": "#add8e6",
       "sounds": [
         {
-          "name": "Begin Battle 1",
-          "color": "#d2b48c",
-          "file": "audio/ursafar/Ursafar Begin Battle 1.wav"
-        },
-        {
-          "name": "Begin Battle 2",
-          "color": "#d2b48c",
-          "file": "audio/ursafar/Ursafar Begin Battle 2.wav"
-        },
-        {
-          "name": "Block 1",
-          "color": "#14b8a6",
-          "file": "audio/ursafar/Ursafar Block 1.wav"
-        },
-        {
-          "name": "Block 2",
-          "color": "#14b8a6",
-          "file": "audio/ursafar/Ursafar Block 2.wav"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/ursafar/Ursafar Blue 1.wav"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/ursafar/Ursafar Blue 2.wav"
-        },
-        {
-          "name": "Dying 1",
-          "color": "#450a0a",
-          "file": "audio/ursafar/Ursafar Dying 1.m4a"
-        },
-        {
-          "name": "Dying 2",
-          "color": "#450a0a",
-          "file": "audio/ursafar/Ursafar Dying 2.wav"
-        },
-        {
           "name": "Gold 1",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/ursafar/Ursafar Gold 1.wav"
         },
         {
           "name": "Gold 2",
-          "color": "#ca8a04",
+          "color": "#facc15",
           "file": "audio/ursafar/Ursafar Gold 2.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/ursafar/Ursafar Silver.wav"
         },
         {
           "name": "Green 1",
@@ -2768,34 +2733,54 @@
           "file": "audio/ursafar/Ursafar Green 1.wav"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green 1",
           "color": "#16a34a",
           "file": "audio/ursafar/Ursafar Green 2.wav"
         },
         {
-          "name": "Green 3",
+          "name": "Alt Green 2",
           "color": "#22c55e",
           "file": "audio/ursafar/Ursafar Green 3.wav"
         },
         {
-          "name": "Hero 1",
-          "color": "#000000",
-          "file": "audio/ursafar/Ursafar Hero 1.wav"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/ursafar/Ursafar Blue 1.wav"
         },
         {
-          "name": "Hero 2",
-          "color": "#000000",
-          "file": "audio/ursafar/Ursafar Hero 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/ursafar/Ursafar Blue 2.wav"
         },
         {
-          "name": "Lvl Up 1",
-          "color": "#facc15",
-          "file": "audio/ursafar/Ursafar Lvl Up 1.wav"
+          "name": "Red 1",
+          "color": "#991b1b",
+          "file": "audio/ursafar/Ursafar Red 1.wav"
         },
         {
-          "name": "Lvl Up 2",
-          "color": "#facc15",
-          "file": "audio/ursafar/Ursafar Lvl Up 2.wav"
+          "name": "Alt Red",
+          "color": "#dc2626",
+          "file": "audio/ursafar/Ursafar Red 2.wav"
+        },
+        {
+          "name": "Ult",
+          "color": "#4c1d95",
+          "file": "audio/ursafar/Ursafar Ult.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/ursafar/Ursafar Move 1.wav"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/ursafar/Ursafar Move 2.wav"
+        },
+        {
+          "name": "Move 3",
+          "color": "#b08968",
+          "file": "audio/ursafar/Ursafar Move 3.mp3"
         },
         {
           "name": "Minion 1",
@@ -2808,49 +2793,64 @@
           "file": "audio/ursafar/Ursafar Minion 2.wav"
         },
         {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/ursafar/Ursafar Move 1.wav"
+          "name": "Hero 1",
+          "color": "#000000",
+          "file": "audio/ursafar/Ursafar Hero 1.wav"
         },
         {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/ursafar/Ursafar Move 2.wav"
+          "name": "Hero 2",
+          "color": "#000000",
+          "file": "audio/ursafar/Ursafar Hero 2.wav"
         },
         {
-          "name": "Move 3",
-          "color": "#0d9488",
-          "file": "audio/ursafar/Ursafar Move 3.mp3"
+          "name": "Block 1",
+          "color": "#14b8a6",
+          "file": "audio/ursafar/Ursafar Block 1.wav"
         },
         {
-          "name": "Red 1",
-          "color": "#991b1b",
-          "file": "audio/ursafar/Ursafar Red 1.wav"
+          "name": "Block 2",
+          "color": "#14b8a6",
+          "file": "audio/ursafar/Ursafar Block 2.wav"
         },
         {
-          "name": "Red 2",
-          "color": "#dc2626",
-          "file": "audio/ursafar/Ursafar Red 2.wav"
+          "name": "Lvl Up 1",
+          "color": "#fef08c",
+          "file": "audio/ursafar/Ursafar Lvl Up 1.wav"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/ursafar/Ursafar Silver.wav"
+          "name": "Lvl Up 2",
+          "color": "#fde047",
+          "file": "audio/ursafar/Ursafar Lvl Up 2.wav"
         },
         {
           "name": "Taunt 1",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/ursafar/Ursafar Taunt 1.wav"
         },
         {
           "name": "Taunt 2",
-          "color": "#ffffff",
+          "color": "#d4d4d8",
           "file": "audio/ursafar/Ursafar Taunt 2.wav"
         },
         {
-          "name": "Ult",
-          "color": "#4c1d95",
-          "file": "audio/ursafar/Ursafar Ult.wav"
+          "name": "Dying 1",
+          "color": "#450a0a",
+          "file": "audio/ursafar/Ursafar Dying 1.m4a"
+        },
+        {
+          "name": "Dying 2",
+          "color": "#450a0a",
+          "file": "audio/ursafar/Ursafar Dying 2.wav"
+        },
+        {
+          "name": "Begin Battle 1",
+          "color": "#d2b48c",
+          "file": "audio/ursafar/Ursafar Begin Battle 1.wav"
+        },
+        {
+          "name": "Begin Battle 2",
+          "color": "#d2b48c",
+          "file": "audio/ursafar/Ursafar Begin Battle 2.wav"
         }
       ]
     },
@@ -2860,29 +2860,14 @@
       "color": "#f5f5f5",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/wasp/Wasp Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/wasp/Wasp Block.ogg"
-        },
-        {
-          "name": "Blue",
-          "color": "#1e40af",
-          "file": "audio/wasp/Wasp Blue.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/wasp/Wasp Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/wasp/Wasp Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/wasp/Wasp Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -2890,34 +2875,14 @@
           "file": "audio/wasp/Wasp Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/wasp/Wasp Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/wasp/Wasp Hero.ogg"
-        },
-        {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/wasp/Wasp Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/wasp/Wasp Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/wasp/Wasp Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/wasp/Wasp Move 2.ogg"
+          "name": "Blue",
+          "color": "#1e40af",
+          "file": "audio/wasp/Wasp Blue.ogg"
         },
         {
           "name": "Red",
@@ -2925,19 +2890,54 @@
           "file": "audio/wasp/Wasp Red.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/wasp/Wasp Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/wasp/Wasp Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/wasp/Wasp Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/wasp/Wasp Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/wasp/Wasp Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/wasp/Wasp Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/wasp/Wasp Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/wasp/Wasp Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/wasp/Wasp Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/wasp/Wasp Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/wasp/Wasp Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/wasp/Wasp Begin Battle.ogg"
         }
       ]
     },
@@ -2947,34 +2947,14 @@
       "color": "#4a0000",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/whisper/Whisper Begin Battle.wav"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/whisper/Whisper Block.wav"
-        },
-        {
-          "name": "Blue 1",
-          "color": "#1e40af",
-          "file": "audio/whisper/Whisper Blue 1.wav"
-        },
-        {
-          "name": "Blue 2",
-          "color": "#2563eb",
-          "file": "audio/whisper/Whisper Blue 2.wav"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/whisper/Whisper Dying.wav"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/whisper/Whisper Gold.wav"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/whisper/Whisper Silver.wav"
         },
         {
           "name": "Green 1",
@@ -2982,34 +2962,19 @@
           "file": "audio/whisper/Whisper Green 1.wav"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/whisper/Whisper Green 2.wav"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/whisper/Whisper Hero.wav"
+          "name": "Blue 1",
+          "color": "#1e40af",
+          "file": "audio/whisper/Whisper Blue 1.wav"
         },
         {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/whisper/Whisper Lvl Up.wav"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/whisper/Whisper Minion.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/whisper/Whisper Move 1.wav"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/whisper/Whisper Move 2.m4a"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/whisper/Whisper Blue 2.wav"
         },
         {
           "name": "Red 1",
@@ -3017,24 +2982,59 @@
           "file": "audio/whisper/Whisper Red 1.wav"
         },
         {
-          "name": "Red 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/whisper/Whisper Red 2.wav"
-        },
-        {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/whisper/Whisper Silver.wav"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/whisper/Whisper Taunt.wav"
         },
         {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/whisper/Whisper Ult.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/whisper/Whisper Move 1.wav"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/whisper/Whisper Move 2.m4a"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/whisper/Whisper Minion.wav"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/whisper/Whisper Hero.wav"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/whisper/Whisper Block.wav"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/whisper/Whisper Lvl Up.wav"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/whisper/Whisper Taunt.wav"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/whisper/Whisper Dying.wav"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/whisper/Whisper Begin Battle.wav"
         }
       ]
     },
@@ -3044,34 +3044,14 @@
       "color": "#ff4500",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/widget/WIDGET BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/widget/WIDGET BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/widget/WIDGET BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/widget/WIDGET BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/widget/WIDGET DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/widget/WIDGET GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/widget/WIDGET SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -3079,34 +3059,19 @@
           "file": "audio/widget/WIDGET GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/widget/WIDGET GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/widget/WIDGET HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/widget/WIDGET BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/widget/WIDGET LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/widget/WIDGET MINION.wav"
-        },
-        {
-          "name": "MOVE 1",
-          "color": "#0d9488",
-          "file": "audio/widget/WIDGET MOVE 1.wav"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/widget/WIDGET MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/widget/WIDGET BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -3114,24 +3079,59 @@
           "file": "audio/widget/WIDGET RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/widget/WIDGET RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/widget/WIDGET SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/widget/WIDGET TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/widget/WIDGET ULT.wav"
+        },
+        {
+          "name": "MOVE 1",
+          "color": "#d2b48c",
+          "file": "audio/widget/WIDGET MOVE 1.wav"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/widget/WIDGET MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/widget/WIDGET MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/widget/WIDGET HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/widget/WIDGET BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/widget/WIDGET LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/widget/WIDGET TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/widget/WIDGET DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/widget/WIDGET BEGIN BATTLE.wav"
         }
       ]
     },
@@ -3141,34 +3141,14 @@
       "color": "#e8a090",
       "sounds": [
         {
-          "name": "BEGIN BATTLE",
-          "color": "#d2b48c",
-          "file": "audio/wuk/WUK BEGIN BATTLE.wav"
-        },
-        {
-          "name": "BLOCK",
-          "color": "#14b8a6",
-          "file": "audio/wuk/WUK BLOCK.wav"
-        },
-        {
-          "name": "BLUE 1",
-          "color": "#1e40af",
-          "file": "audio/wuk/WUK BLUE 1.wav"
-        },
-        {
-          "name": "BLUE 2",
-          "color": "#2563eb",
-          "file": "audio/wuk/WUK BLUE 2.wav"
-        },
-        {
-          "name": "DYING",
-          "color": "#450a0a",
-          "file": "audio/wuk/WUK DYING.wav"
-        },
-        {
           "name": "GOLD",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/wuk/WUK GOLD.wav"
+        },
+        {
+          "name": "SILVER",
+          "color": "#c0c0c0",
+          "file": "audio/wuk/WUK SILVER.wav"
         },
         {
           "name": "GREEN 1",
@@ -3176,34 +3156,19 @@
           "file": "audio/wuk/WUK GREEN 1.wav"
         },
         {
-          "name": "GREEN 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/wuk/WUK GREEN 2.wav"
         },
         {
-          "name": "HERO",
-          "color": "#000000",
-          "file": "audio/wuk/WUK HERO.wav"
+          "name": "BLUE 1",
+          "color": "#1e40af",
+          "file": "audio/wuk/WUK BLUE 1.wav"
         },
         {
-          "name": "LVL UP",
-          "color": "#facc15",
-          "file": "audio/wuk/WUK LVL UP.wav"
-        },
-        {
-          "name": "MINION",
-          "color": "#6b7280",
-          "file": "audio/wuk/WUK MINION.wav"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/wuk/Wuk Move 1.m4a"
-        },
-        {
-          "name": "MOVE 2",
-          "color": "#0d9488",
-          "file": "audio/wuk/WUK MOVE 2.wav"
+          "name": "Alt Blue",
+          "color": "#2563eb",
+          "file": "audio/wuk/WUK BLUE 2.wav"
         },
         {
           "name": "RED 1",
@@ -3211,24 +3176,59 @@
           "file": "audio/wuk/WUK RED 1.wav"
         },
         {
-          "name": "RED 2",
+          "name": "Alt Red",
           "color": "#dc2626",
           "file": "audio/wuk/WUK RED 2.wav"
-        },
-        {
-          "name": "SILVER",
-          "color": "#475569",
-          "file": "audio/wuk/WUK SILVER.wav"
-        },
-        {
-          "name": "TAUNT",
-          "color": "#ffffff",
-          "file": "audio/wuk/WUK TAUNT.wav"
         },
         {
           "name": "ULT",
           "color": "#4c1d95",
           "file": "audio/wuk/WUK ULT.wav"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/wuk/Wuk Move 1.m4a"
+        },
+        {
+          "name": "MOVE 2",
+          "color": "#c4a484",
+          "file": "audio/wuk/WUK MOVE 2.wav"
+        },
+        {
+          "name": "MINION",
+          "color": "#6b7280",
+          "file": "audio/wuk/WUK MINION.wav"
+        },
+        {
+          "name": "HERO",
+          "color": "#000000",
+          "file": "audio/wuk/WUK HERO.wav"
+        },
+        {
+          "name": "BLOCK",
+          "color": "#14b8a6",
+          "file": "audio/wuk/WUK BLOCK.wav"
+        },
+        {
+          "name": "LVL UP",
+          "color": "#fef08c",
+          "file": "audio/wuk/WUK LVL UP.wav"
+        },
+        {
+          "name": "TAUNT",
+          "color": "#d4d4d8",
+          "file": "audio/wuk/WUK TAUNT.wav"
+        },
+        {
+          "name": "DYING",
+          "color": "#450a0a",
+          "file": "audio/wuk/WUK DYING.wav"
+        },
+        {
+          "name": "BEGIN BATTLE",
+          "color": "#d2b48c",
+          "file": "audio/wuk/WUK BEGIN BATTLE.wav"
         }
       ]
     },
@@ -3238,29 +3238,14 @@
       "color": "#9acd32",
       "sounds": [
         {
-          "name": "Begin Battle",
-          "color": "#d2b48c",
-          "file": "audio/xargatha/Xargatha Begin Battle.ogg"
-        },
-        {
-          "name": "Block",
-          "color": "#14b8a6",
-          "file": "audio/xargatha/Xargatha Block.ogg"
-        },
-        {
-          "name": "Blue",
-          "color": "#1e40af",
-          "file": "audio/xargatha/Xargatha Blue.ogg"
-        },
-        {
-          "name": "Dying",
-          "color": "#450a0a",
-          "file": "audio/xargatha/Xargatha Dying.ogg"
-        },
-        {
           "name": "Gold",
-          "color": "#a16207",
+          "color": "#eab308",
           "file": "audio/xargatha/Xargatha Gold.ogg"
+        },
+        {
+          "name": "Silver",
+          "color": "#c0c0c0",
+          "file": "audio/xargatha/Xargatha Silver.ogg"
         },
         {
           "name": "Green 1",
@@ -3268,34 +3253,14 @@
           "file": "audio/xargatha/Xargatha Green 1.ogg"
         },
         {
-          "name": "Green 2",
+          "name": "Alt Green",
           "color": "#16a34a",
           "file": "audio/xargatha/Xargatha Green 2.ogg"
         },
         {
-          "name": "Hero",
-          "color": "#000000",
-          "file": "audio/xargatha/Xargatha Hero.ogg"
-        },
-        {
-          "name": "Lvl Up",
-          "color": "#facc15",
-          "file": "audio/xargatha/Xargatha Lvl Up.ogg"
-        },
-        {
-          "name": "Minion",
-          "color": "#6b7280",
-          "file": "audio/xargatha/Xargatha Minion.ogg"
-        },
-        {
-          "name": "Move 1",
-          "color": "#0d9488",
-          "file": "audio/xargatha/Xargatha Move 1.ogg"
-        },
-        {
-          "name": "Move 2",
-          "color": "#0d9488",
-          "file": "audio/xargatha/Xargatha Move 2.ogg"
+          "name": "Blue",
+          "color": "#1e40af",
+          "file": "audio/xargatha/Xargatha Blue.ogg"
         },
         {
           "name": "Red",
@@ -3303,19 +3268,54 @@
           "file": "audio/xargatha/Xargatha Red.ogg"
         },
         {
-          "name": "Silver",
-          "color": "#475569",
-          "file": "audio/xargatha/Xargatha Silver.ogg"
-        },
-        {
-          "name": "Taunt",
-          "color": "#ffffff",
-          "file": "audio/xargatha/Xargatha Taunt.ogg"
-        },
-        {
           "name": "Ult",
           "color": "#4c1d95",
           "file": "audio/xargatha/Xargatha Ult.ogg"
+        },
+        {
+          "name": "Move 1",
+          "color": "#d2b48c",
+          "file": "audio/xargatha/Xargatha Move 1.ogg"
+        },
+        {
+          "name": "Move 2",
+          "color": "#c4a484",
+          "file": "audio/xargatha/Xargatha Move 2.ogg"
+        },
+        {
+          "name": "Minion",
+          "color": "#6b7280",
+          "file": "audio/xargatha/Xargatha Minion.ogg"
+        },
+        {
+          "name": "Hero",
+          "color": "#000000",
+          "file": "audio/xargatha/Xargatha Hero.ogg"
+        },
+        {
+          "name": "Block",
+          "color": "#14b8a6",
+          "file": "audio/xargatha/Xargatha Block.ogg"
+        },
+        {
+          "name": "Lvl Up",
+          "color": "#fef08c",
+          "file": "audio/xargatha/Xargatha Lvl Up.ogg"
+        },
+        {
+          "name": "Taunt",
+          "color": "#d4d4d8",
+          "file": "audio/xargatha/Xargatha Taunt.ogg"
+        },
+        {
+          "name": "Dying",
+          "color": "#450a0a",
+          "file": "audio/xargatha/Xargatha Dying.ogg"
+        },
+        {
+          "name": "Begin Battle",
+          "color": "#d2b48c",
+          "file": "audio/xargatha/Xargatha Begin Battle.ogg"
         }
       ]
     }
