@@ -42,13 +42,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Alt Blue 1",
+          "name": "Blue 2",
           "color": "#2563eb",
           "file": "audio/arien/Arien Blue 2.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Blue 2",
+          "name": "Blue 3",
           "color": "#3b82f6",
           "file": "audio/arien/Arien Blue 3.ogg",
           "opacity": 0.88
@@ -576,19 +576,19 @@
           "opacity": 0.88
         },
         {
-          "name": "Green",
+          "name": "Green 1",
           "color": "#166534",
           "file": "audio/cutter/Cutter Green 1.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 1",
+          "name": "Green 2",
           "color": "#16a34a",
           "file": "audio/cutter/Cutter Green 2.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 2",
+          "name": "Alt Green",
           "color": "#22c55e",
           "file": "audio/cutter/Cutter Green 3.wav",
           "opacity": 0.88
@@ -723,25 +723,25 @@
           "opacity": 0.88
         },
         {
-          "name": "Green",
+          "name": "Green 1",
           "color": "#166534",
           "file": "audio/dodger/Dodger Green 1.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 1",
+          "name": "Green 2",
           "color": "#16a34a",
           "file": "audio/dodger/Dodger Green 2.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 2",
+          "name": "Alt Green 1",
           "color": "#22c55e",
           "file": "audio/dodger/Dodger Green 3.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 3",
+          "name": "Alt Green 2",
           "color": "#4ade80",
           "file": "audio/dodger/Dodger Green 4.ogg",
           "opacity": 0.88
@@ -753,13 +753,13 @@
           "opacity": 0.88
         },
         {
-          "name": "Alt Blue 1",
+          "name": "Blue 2",
           "color": "#2563eb",
           "file": "audio/dodger/Dodger Blue 2.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Blue 2",
+          "name": "Alt Blue",
           "color": "#3b82f6",
           "file": "audio/dodger/Dodger Blue 3.ogg",
           "opacity": 0.88
@@ -1508,25 +1508,13 @@
           "file": "audio/min/Min Blue 2.ogg",
           "opacity": 0.88
         },
-        {
-          "name": "Red Cobra",
-          "color": "#991b1b",
-          "file": "audio/min/Min Red Cobra.ogg",
-          "opacity": 0.88
-        },
-        {
+          {
           "name": "Red Crane",
           "color": "#991b1b",
           "file": "audio/min/Min Red Crane.ogg",
           "opacity": 0.88
         },
-        {
-          "name": "Red Dragon",
-          "color": "#991b1b",
-          "file": "audio/min/Min Red Dragon.ogg",
-          "opacity": 0.88
-        },
-        {
+         {
           "name": "Red Tiger",
           "color": "#991b1b",
           "file": "audio/min/Min Red Tiger.ogg",
@@ -1536,6 +1524,18 @@
           "name": "Red Viper",
           "color": "#991b1b",
           "file": "audio/min/Min Red Viper.ogg",
+          "opacity": 0.88
+        },
+         {
+          "name": "Red Dragon",
+          "color": "#991b1b",
+          "file": "audio/min/Min Red Dragon.ogg",
+          "opacity": 0.88
+        },
+        {
+          "name": "Red Cobra",
+          "color": "#991b1b",
+          "file": "audio/min/Min Red Cobra.ogg",
           "opacity": 0.88
         },
         {
@@ -2550,19 +2550,19 @@
           "opacity": 0.88
         },
         {
-          "name": "Red",
+          "name": "Red 1",
           "color": "#3b82f6",
           "file": "audio/snorri/SNORRI RED 1.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Red 1",
+          "name": "Red 2",
           "color": "#dc2626",
           "file": "audio/snorri/SNORRI RED 2.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Red 2",
+          "name": "Alt Red",
           "color": "#ef4444",
           "file": "audio/snorri/SNORRI RED 3.wav",
           "opacity": 0.88
@@ -3018,19 +3018,19 @@
           "opacity": 0.88
         },
         {
-          "name": "Green",
+          "name": "Green 1",
           "color": "#166534",
           "file": "audio/tigerclaw/Tigerclaw Green 1.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 1",
+          "name": "Green 2",
           "color": "#16a34a",
           "file": "audio/tigerclaw/Tigerclaw Green 2.ogg",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 2",
+          "name": "Alt Green",
           "color": "#22c55e",
           "file": "audio/tigerclaw/Tigerclaw Green 3.ogg",
           "opacity": 0.88
@@ -3288,19 +3288,19 @@
           "opacity": 0.88
         },
         {
-          "name": "Green",
+          "name": "Green 1",
           "color": "#166534",
           "file": "audio/ursafar/Ursafar Green 1.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 1",
+          "name": "Green 2",
           "color": "#16a34a",
           "file": "audio/ursafar/Ursafar Green 2.wav",
           "opacity": 0.88
         },
         {
-          "name": "Alt Green 2",
+          "name": "Alt Green",
           "color": "#22c55e",
           "file": "audio/ursafar/Ursafar Green 3.wav",
           "opacity": 0.88
