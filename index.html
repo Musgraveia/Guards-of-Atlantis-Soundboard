@@ -431,6 +431,35 @@
         .join('/');
     }
 
+
+    // Try the path as written, then common extension-case variants (GitHub Pages is case-sensitive).
+    // Resolves with the first URL that actually loads, or null (and logs the failing URLs).
+    function resolveImage(path) {
+      if (!path) return Promise.resolve(null);
+      const m = String(path).match(/^(.*)\.([^./]+)$/);
+      const variants = [path];
+      if (m) {
+        [m[2].toLowerCase(), m[2].toUpperCase(), 'png', 'jpg', 'jpeg', 'webp']
+          .forEach(ext => variants.push(m[1] + '.' + ext));
+      }
+      const unique = [...new Set(variants)];
+      return new Promise(resolve => {
+        let i = 0;
+        const tryNext = () => {
+          if (i >= unique.length) {
+            console.warn('[Soundboard] Image not found. Tried:', unique.map(assetPath));
+            return resolve(null);
+          }
+          const url = assetPath(unique[i++]);
+          const img = new Image();
+          img.onload = () => resolve(url);
+          img.onerror = tryNext;
+          img.src = url;
+        };
+        tryNext();
+      });
+    }
+
     // ===================== Load boards.json =====================
     async function loadBoards() {
       try {
@@ -479,10 +508,13 @@
       document.getElementById('current-board-name').textContent = board.name;
 
       const boardContent = document.getElementById('soundboard-content');
+      boardContent.style.setProperty('--board-background', 'none');
       if (board.background) {
-        boardContent.style.setProperty('--board-background', `url("${assetPath(board.background)}")`);
-      } else {
-        boardContent.style.setProperty('--board-background', 'none');
+        resolveImage(board.background).then(url => {
+          if (url && currentBoardId === id) {
+            boardContent.style.setProperty('--board-background', `url("${url}")`);
+          }
+        });
       }
 
       renderSounds(board);
@@ -507,10 +539,11 @@
         btn.className = 'board-btn';
 
         // Show the board thumbnail on the main-menu button.
+        btn.style.backgroundColor = board.color || '#3b82f6';
         if (board.thumbnail) {
-          btn.style.backgroundImage = `url("${assetPath(board.thumbnail)}")`;
-        } else {
-          btn.style.backgroundColor = board.color || '#3b82f6';
+          resolveImage(board.thumbnail).then(url => {
+            if (url) btn.style.backgroundImage = `url("${url}")`;
+          });
         }
 
         const count = (board.sounds && board.sounds.length) || 0;
