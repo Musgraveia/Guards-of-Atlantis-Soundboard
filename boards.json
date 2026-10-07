@@ -150,7 +150,9 @@
           "color": "#c4a484",
           "file": "audio/arien/Arien Begin Battle 2.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/ARIEN.PNG",
+      "background": "HERO THUMBNAILS/ARIEN.PNG"
     },
     {
       "id": "bain",
@@ -237,7 +239,9 @@
           "color": "#d2b48c",
           "file": "audio/bain/Bain Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/BAIN.PNG",
+      "background": "HERO THUMBNAILS/BAIN.PNG"
     },
     {
       "id": "brogan",
@@ -364,7 +368,9 @@
           "color": "#d2b48c",
           "file": "audio/brogan/Brogan Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/BROGAN.PNG",
+      "background": "HERO THUMBNAILS/BROGAN.PNG"
     },
     {
       "id": "brynn",
@@ -461,7 +467,9 @@
           "color": "#d2b48c",
           "file": "audio/brynn/Brynn Begin Battle.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/BRYNN.PNG",
+      "background": "HERO THUMBNAILS/BRYNN.PNG"
     },
     {
       "id": "cutter",
@@ -573,7 +581,9 @@
           "color": "#d2b48c",
           "file": "audio/cutter/Cutter Begin Battle.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/CUTTER.PNG",
+      "background": "HERO THUMBNAILS/CUTTER.PNG"
     },
     {
       "id": "dodger",
@@ -715,7 +725,9 @@
           "color": "#d2b48c",
           "file": "audio/dodger/Dodger Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/DODGER.PNG",
+      "background": "HERO THUMBNAILS/DODGER.PNG"
     },
     {
       "id": "emmitt",
@@ -817,7 +829,9 @@
           "color": "#d2b48c",
           "file": "audio/emmitt/EMMITT BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/EMMITT.PNG",
+      "background": "HERO THUMBNAILS/EMMITT.PNG"
     },
     {
       "id": "garrus",
@@ -914,7 +928,9 @@
           "color": "#d2b48c",
           "file": "audio/garrus/Garrus Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/GARRUS.PNG",
+      "background": "HERO THUMBNAILS/GARRUS.PNG"
     },
     {
       "id": "gydion",
@@ -1021,7 +1037,9 @@
           "color": "#d2b48c",
           "file": "audio/gydion/GYDION BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/GYDION.PNG",
+      "background": "HERO THUMBNAILS/GYDION.PNG"
     },
     {
       "id": "hanu",
@@ -1118,7 +1136,9 @@
           "color": "#d2b48c",
           "file": "audio/hanu/Hanu Begin Battle.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/HANU.PNG",
+      "background": "HERO THUMBNAILS/HANU.PNG"
     },
     {
       "id": "ignatia",
@@ -1215,7 +1235,9 @@
           "color": "#d2b48c",
           "file": "audio/ignatia/IGNATIA BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/IGNATIA.PNG",
+      "background": "HERO THUMBNAILS/IGNATIA.PNG"
     },
     {
       "id": "min",
@@ -1332,7 +1354,9 @@
           "color": "#d2b48c",
           "file": "audio/min/Min Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/MIN.PNG",
+      "background": "HERO THUMBNAILS/MIN.PNG"
     },
     {
       "id": "misa",
@@ -1424,7 +1448,9 @@
           "color": "#d2b48c",
           "file": "audio/misa/Misa Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/MISA.PNG",
+      "background": "HERO THUMBNAILS/MISA.PNG"
     },
     {
       "id": "mortimer",
@@ -1516,7 +1542,9 @@
           "color": "#d2b48c",
           "file": "audio/mortimer/Mortimer Begin Battle.m4a"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/MORTIMER.PNG",
+      "background": "HERO THUMBNAILS/MORTIMER.PNG"
     },
     {
       "id": "mrak",
@@ -1608,7 +1636,9 @@
           "color": "#d2b48c",
           "file": "audio/mrak/MRAK BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/MRAK.PNG",
+      "background": "HERO THUMBNAILS/MRAK.PNG"
     },
     {
       "id": "nebkher",
@@ -1700,7 +1730,9 @@
           "color": "#d2b48c",
           "file": "audio/nebkher/NEBKHER BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/NEBKHER.PNG",
+      "background": "HERO THUMBNAILS/NEBKHER.PNG"
     },
     {
       "id": "razzle",
@@ -1797,7 +1829,9 @@
           "color": "#d2b48c",
           "file": "audio/razzle/RAZZLE BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/RAZZLE.PNG",
+      "background": "HERO THUMBNAILS/RAZZLE.PNG"
     },
     {
       "id": "rowenna",
@@ -1889,7 +1923,9 @@
           "color": "#d2b48c",
           "file": "audio/rowenna/Rowenna Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/ROWENNA.PNG",
+      "background": "HERO THUMBNAILS/ROWENNA.PNG"
     },
     {
       "id": "sabina",
@@ -1986,7 +2022,9 @@
           "color": "#d2b48c",
           "file": "audio/sabina/Sabina Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/SABINA.PNG",
+      "background": "HERO THUMBNAILS/SABINA.PNG"
     },
     {
       "id": "silverarrow",
@@ -2078,7 +2116,9 @@
           "color": "#d2b48c",
           "file": "audio/silverarrow/Silverarrow Begin Battle.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/SILVERARROW.PNG",
+      "background": "HERO THUMBNAILS/SILVERARROW.PNG"
     },
     {
       "id": "snorri",
@@ -2185,7 +2225,9 @@
           "color": "#d2b48c",
           "file": "audio/snorri/SNORRI BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/SNORRI.PNG",
+      "background": "HERO THUMBNAILS/SNORRI.PNG"
     },
     {
       "id": "swift",
@@ -2282,7 +2324,9 @@
           "color": "#d2b48c",
           "file": "audio/swift/SWIFT BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/SWIFT.PNG",
+      "background": "HERO THUMBNAILS/SWIFT.PNG"
     },
     {
       "id": "takahide",
@@ -2379,7 +2423,9 @@
           "color": "#d2b48c",
           "file": "audio/takahide/TAKAHIDE BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/TAKAHIDE.PNG",
+      "background": "HERO THUMBNAILS/TAKAHIDE.PNG"
     },
     {
       "id": "tali",
@@ -2476,7 +2522,9 @@
           "color": "#d2b48c",
           "file": "audio/tali/TALI BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/TALI.PNG",
+      "background": "HERO THUMBNAILS/TALI.PNG"
     },
     {
       "id": "tigerclaw",
@@ -2608,7 +2656,9 @@
           "color": "#d2b48c",
           "file": "audio/tigerclaw/Tigerclaw Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/TIGERCLAW.PNG",
+      "background": "HERO THUMBNAILS/TIGERCLAW.PNG"
     },
     {
       "id": "trinkets",
@@ -2705,7 +2755,9 @@
           "color": "#d2b48c",
           "file": "audio/trinkets/TRINKETS BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/TRINKETS.PNG",
+      "background": "HERO THUMBNAILS/TRINKETS.PNG"
     },
     {
       "id": "ursafar",
@@ -2852,7 +2904,9 @@
           "color": "#c4a484",
           "file": "audio/ursafar/Ursafar Begin Battle 2.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/URSAFAR.PNG",
+      "background": "HERO THUMBNAILS/URSAFAR.PNG"
     },
     {
       "id": "wasp",
@@ -2939,7 +2993,9 @@
           "color": "#d2b48c",
           "file": "audio/wasp/Wasp Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/WASP.PNG",
+      "background": "HERO THUMBNAILS/WASP.PNG"
     },
     {
       "id": "whisper",
@@ -3036,7 +3092,9 @@
           "color": "#d2b48c",
           "file": "audio/whisper/Whisper Begin Battle.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/WHISPER.PNG",
+      "background": "HERO THUMBNAILS/WHISPER.PNG"
     },
     {
       "id": "widget",
@@ -3133,7 +3191,9 @@
           "color": "#d2b48c",
           "file": "audio/widget/WIDGET BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/WIDGET.PNG",
+      "background": "HERO THUMBNAILS/WIDGET.PNG"
     },
     {
       "id": "wuk",
@@ -3230,7 +3290,9 @@
           "color": "#d2b48c",
           "file": "audio/wuk/WUK BEGIN BATTLE.wav"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/WUK.PNG",
+      "background": "HERO THUMBNAILS/WUK.PNG"
     },
     {
       "id": "xargatha",
@@ -3317,7 +3379,9 @@
           "color": "#d2b48c",
           "file": "audio/xargatha/Xargatha Begin Battle.ogg"
         }
-      ]
+      ],
+      "thumbnail": "HERO THUMBNAILS/XARGATHA.PNG",
+      "background": "HERO THUMBNAILS/XARGATHA.PNG"
     }
   ]
 }
