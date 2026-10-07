@@ -126,13 +126,14 @@
 
     .board-btn {
       aspect-ratio: 1;
+      position: relative;
       border-radius: var(--radius);
       border: none;
       cursor: pointer;
       display: flex;
       flex-direction: column;
       align-items: center;
-      justify-content: center;
+      justify-content: flex-end;
       padding: 16px;
       transition: transform 0.12s, box-shadow 0.15s;
       box-shadow: 0 4px 14px rgba(0,0,0,0.35);
@@ -143,6 +144,28 @@
       overflow: hidden;
       user-select: none;
       background: #3b82f6;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+    }
+
+    .board-btn::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(
+        to top,
+        rgba(0,0,0,0.72) 0%,
+        rgba(0,0,0,0.18) 55%,
+        rgba(0,0,0,0.02) 100%
+      );
+      pointer-events: none;
+    }
+
+    .board-btn .board-name,
+    .board-btn .board-count {
+      position: relative;
+      z-index: 1;
     }
     .board-btn:hover {
       transform: translateY(-4px);
@@ -202,8 +225,39 @@
       flex: 1;
     }
 
-    .sound-grid {
+    .soundboard-content {
+      position: relative;
       flex: 1;
+      min-height: 0;
+      overflow: hidden;
+      background: #0f172a;
+    }
+
+    .soundboard-content::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background-image: var(--board-background);
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      z-index: 0;
+    }
+
+    .soundboard-content::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.20);
+      z-index: 0;
+      pointer-events: none;
+    }
+
+    .sound-grid {
+      position: relative;
+      z-index: 1;
+      flex: 1;
+      min-height: 0;
       overflow-y: auto;
       padding: 20px;
       display: grid;
@@ -230,6 +284,7 @@
       word-break: break-word;
       overflow: hidden;
       user-select: none;
+      /* Opacity is controlled per sound from boards.json. */
     }
     .sound-btn:hover {
       transform: translateY(-3px);
@@ -337,7 +392,9 @@
       <div class="board-toolbar">
         <h2 id="current-board-name">Board Name</h2>
       </div>
-      <div class="sound-grid" id="sound-grid"></div>
+      <div class="soundboard-content" id="soundboard-content">
+        <div class="sound-grid" id="sound-grid"></div>
+      </div>
     </div>
   </div>
 
@@ -363,6 +420,15 @@
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;');
+    }
+
+    // Encode each path segment so spaces, parentheses, etc. work on GitHub Pages.
+    function assetPath(path) {
+      if (!path) return '';
+      return String(path)
+        .split('/')
+        .map(part => encodeURIComponent(part))
+        .join('/');
     }
 
     // ===================== Load boards.json =====================
@@ -411,6 +477,14 @@
       document.getElementById('board-view').classList.add('active');
       document.getElementById('btn-back').style.display = 'inline-flex';
       document.getElementById('current-board-name').textContent = board.name;
+
+      const boardContent = document.getElementById('soundboard-content');
+      if (board.background) {
+        boardContent.style.setProperty('--board-background', `url("${assetPath(board.background)}")`);
+      } else {
+        boardContent.style.setProperty('--board-background', 'none');
+      }
+
       renderSounds(board);
     }
 
@@ -431,7 +505,14 @@
       boards.forEach(board => {
         const btn = document.createElement('button');
         btn.className = 'board-btn';
-        btn.style.background = board.color || '#3b82f6';
+
+        // Show the board thumbnail on the main-menu button.
+        if (board.thumbnail) {
+          btn.style.backgroundImage = `url("${assetPath(board.thumbnail)}")`;
+        } else {
+          btn.style.backgroundColor = board.color || '#3b82f6';
+        }
+
         const count = (board.sounds && board.sounds.length) || 0;
         btn.innerHTML = `
           <span class="board-name">${escapeHtml(board.name)}</span>
@@ -461,7 +542,11 @@
       sounds.forEach(sound => {
         const btn = document.createElement('button');
         btn.className = 'sound-btn';
-        btn.style.background = sound.color || '#3b82f6';
+
+        // Keep each sound button colored, but let the board artwork show through.
+        btn.style.backgroundColor = sound.color || '#3b82f6';
+        btn.style.opacity = sound.opacity ?? 0.78;
+
         btn.innerHTML = `<span class="label">${escapeHtml(sound.name)}</span>`;
 
         btn.addEventListener('click', () => playSound(sound.file, btn));
